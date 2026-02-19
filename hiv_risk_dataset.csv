@@ -1,0 +1,1001 @@
+age,gender,marital_status,education_level,employment_status,region,residence_type,number_of_partners,condom_use,hiv_tested_before,sti_history,blood_transfusion,iv_drug_use,alcohol_use,hiv_knowledge_score,healthcare_access,partner_hiv_status,hiv_risk
+53,Male,Single,Secondary,Unemployed,Tanga,Rural,2,Sometimes,Yes,No,No,No,Regularly,10,Moderate,Negative,Low Risk
+43,Male,Widowed,Secondary,Unemployed,Zanzibar,Rural,1,Never,Yes,No,No,No,Never,5,Moderate,Positive,Low Risk
+29,Male,Single,Secondary,Unemployed,Mwanza,Rural,3,Sometimes,No,No,No,No,Never,3,Poor,Unknown,Low Risk
+57,Female,Married,Primary,Employed,Mbeya,Rural,1,Always,Yes,Yes,Yes,No,Never,5,Moderate,Negative,Low Risk
+22,Male,Divorced,No Education,Employed,Mbeya,Urban,2,Never,No,Yes,No,No,Occasionally,10,Moderate,Negative,High Risk
+35,Female,Single,Secondary,Employed,Dodoma,Rural,3,Sometimes,No,No,No,No,Regularly,0,Poor,Unknown,High Risk
+53,Female,Single,No Education,Self-employed,Arusha,Rural,2,Never,Yes,Yes,No,No,Never,9,Moderate,Unknown,High Risk
+33,Male,Single,Primary,Employed,Dar es Salaam,Rural,1,Always,No,Yes,No,No,Never,7,Moderate,Negative,Low Risk
+37,Female,Single,No Education,Unemployed,Morogoro,Urban,4,Sometimes,Yes,No,No,No,Regularly,0,Moderate,Unknown,High Risk
+25,Female,Married,Secondary,Student,Tanga,Urban,1,Never,Yes,No,No,No,Occasionally,4,Good,Negative,Low Risk
+25,Female,Single,Primary,Employed,Dar es Salaam,Urban,0,Always,No,No,No,No,Regularly,1,Moderate,Unknown,Low Risk
+38,Male,Married,Secondary,Unemployed,Dodoma,Rural,1,Never,No,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+50,Female,Single,Tertiary,Self-employed,Dodoma,Urban,0,Sometimes,Yes,Yes,No,No,Occasionally,8,Moderate,Negative,Low Risk
+54,Female,Divorced,No Education,Student,Tanga,Urban,4,Sometimes,No,No,No,No,Never,4,Moderate,Negative,High Risk
+38,Female,Single,No Education,Self-employed,Morogoro,Urban,1,Sometimes,Yes,No,No,No,Never,3,Moderate,Negative,Low Risk
+17,Male,Single,Primary,Self-employed,Arusha,Urban,3,Never,Yes,Yes,No,No,Occasionally,1,Poor,Negative,High Risk
+36,Female,Single,Tertiary,Self-employed,Tanga,Rural,3,Always,Yes,No,No,No,Occasionally,2,Poor,Positive,High Risk
+16,Male,Married,Primary,Unemployed,Tanga,Urban,1,Always,No,No,No,No,Never,5,Moderate,Unknown,Low Risk
+38,Male,Divorced,Primary,Self-employed,Zanzibar,Rural,2,Never,Yes,No,No,Yes,Regularly,7,Poor,Negative,High Risk
+58,Male,Married,No Education,Employed,Morogoro,Rural,0,Never,No,No,Yes,No,Never,7,Moderate,Unknown,High Risk
+44,Male,Single,Secondary,Student,Arusha,Rural,1,Always,No,No,No,No,Occasionally,4,Poor,Negative,Low Risk
+52,Male,Divorced,Primary,Unemployed,Mbeya,Urban,0,Sometimes,No,No,Yes,No,Never,4,Moderate,Unknown,Low Risk
+16,Male,Divorced,Secondary,Unemployed,Zanzibar,Rural,4,Sometimes,Yes,No,No,No,Regularly,9,Good,Negative,Low Risk
+35,Female,Single,Tertiary,Employed,Mwanza,Rural,5,Sometimes,Yes,No,No,No,Never,2,Good,Positive,High Risk
+47,Male,Divorced,Primary,Self-employed,Morogoro,Rural,1,Always,Yes,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+26,Female,Widowed,Secondary,Employed,Arusha,Rural,1,Sometimes,No,No,No,No,Never,5,Moderate,Positive,Low Risk
+36,Female,Single,No Education,Student,Dodoma,Urban,3,Always,No,No,Yes,No,Occasionally,0,Moderate,Unknown,High Risk
+58,Male,Divorced,Tertiary,Self-employed,Zanzibar,Urban,1,Never,No,No,No,No,Occasionally,3,Moderate,Unknown,Low Risk
+39,Female,Married,Secondary,Employed,Arusha,Urban,3,Never,No,Yes,No,Yes,Never,5,Good,Negative,High Risk
+63,Female,Married,Tertiary,Self-employed,Dar es Salaam,Rural,2,Sometimes,Yes,No,No,No,Never,10,Good,Negative,Low Risk
+41,Female,Single,No Education,Self-employed,Tanga,Urban,1,Always,No,Yes,No,No,Regularly,5,Moderate,Negative,Low Risk
+56,Female,Single,Primary,Self-employed,Mwanza,Urban,3,Always,No,No,No,No,Regularly,10,Good,Negative,Low Risk
+42,Male,Divorced,Primary,Unemployed,Mbeya,Rural,1,Sometimes,Yes,Yes,No,No,Never,2,Moderate,Unknown,Low Risk
+30,Female,Widowed,Primary,Employed,Tanga,Urban,4,Never,Yes,No,No,No,Never,5,Moderate,Negative,Low Risk
+29,Male,Married,Primary,Employed,Dar es Salaam,Urban,4,Sometimes,No,Yes,No,Yes,Never,9,Poor,Positive,High Risk
+61,Female,Married,Primary,Unemployed,Dar es Salaam,Urban,1,Sometimes,No,No,No,No,Never,5,Good,Negative,Low Risk
+58,Female,Married,No Education,Student,Mwanza,Urban,0,Sometimes,Yes,No,No,No,Regularly,8,Good,Negative,Low Risk
+17,Male,Married,Primary,Employed,Mbeya,Urban,5,Sometimes,No,No,No,No,Occasionally,8,Moderate,Negative,Low Risk
+51,Female,Married,Secondary,Self-employed,Dodoma,Rural,4,Always,Yes,No,No,Yes,Occasionally,1,Moderate,Negative,High Risk
+21,Female,Single,Primary,Unemployed,Zanzibar,Rural,1,Always,Yes,No,No,Yes,Regularly,3,Good,Negative,Low Risk
+35,Female,Divorced,No Education,Unemployed,Morogoro,Rural,3,Always,No,No,No,No,Occasionally,8,Poor,Negative,High Risk
+23,Male,Married,Primary,Self-employed,Mbeya,Rural,1,Sometimes,No,No,No,No,Occasionally,3,Good,Negative,Low Risk
+53,Female,Divorced,No Education,Student,Morogoro,Rural,1,Never,No,No,No,No,Never,7,Moderate,Unknown,High Risk
+32,Male,Single,Tertiary,Unemployed,Arusha,Urban,3,Never,Yes,No,No,No,Occasionally,9,Good,Positive,High Risk
+18,Female,Single,No Education,Unemployed,Dar es Salaam,Rural,1,Always,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+39,Male,Single,Secondary,Unemployed,Arusha,Rural,4,Always,Yes,No,No,No,Never,2,Moderate,Negative,Low Risk
+28,Male,Married,Tertiary,Employed,Dodoma,Rural,1,Always,Yes,No,No,No,Never,8,Good,Negative,Low Risk
+64,Female,Widowed,Secondary,Employed,Arusha,Rural,2,Sometimes,Yes,No,No,No,Never,10,Poor,Negative,Low Risk
+23,Female,Single,Secondary,Unemployed,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Never,9,Moderate,Unknown,Low Risk
+40,Male,Divorced,Secondary,Unemployed,Arusha,Urban,2,Sometimes,Yes,No,No,No,Occasionally,7,Moderate,Unknown,Low Risk
+16,Male,Married,Tertiary,Self-employed,Dodoma,Urban,2,Always,Yes,No,No,No,Occasionally,0,Good,Negative,Low Risk
+34,Female,Divorced,Secondary,Unemployed,Dodoma,Rural,1,Always,No,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+42,Male,Single,Secondary,Unemployed,Dodoma,Rural,2,Always,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+61,Female,Divorced,Secondary,Unemployed,Mbeya,Rural,1,Always,Yes,Yes,Yes,No,Occasionally,2,Poor,Negative,High Risk
+21,Female,Divorced,Secondary,Self-employed,Dodoma,Urban,1,Never,No,Yes,No,No,Never,10,Moderate,Unknown,High Risk
+58,Female,Single,Secondary,Student,Dar es Salaam,Rural,3,Always,Yes,No,Yes,No,Occasionally,1,Poor,Unknown,High Risk
+22,Female,Single,Primary,Unemployed,Tanga,Urban,1,Sometimes,No,No,No,No,Regularly,2,Moderate,Unknown,High Risk
+61,Male,Divorced,Primary,Self-employed,Dodoma,Urban,2,Sometimes,Yes,No,No,No,Never,7,Poor,Negative,Low Risk
+49,Female,Widowed,No Education,Employed,Arusha,Urban,2,Never,Yes,No,No,No,Regularly,10,Moderate,Negative,High Risk
+28,Male,Single,No Education,Unemployed,Zanzibar,Rural,2,Never,Yes,No,No,No,Regularly,10,Good,Negative,High Risk
+31,Female,Married,Primary,Unemployed,Arusha,Rural,1,Never,Yes,No,No,No,Never,5,Good,Unknown,Low Risk
+50,Male,Widowed,No Education,Unemployed,Zanzibar,Rural,1,Always,No,No,No,No,Never,6,Moderate,Negative,Low Risk
+64,Female,Divorced,Secondary,Self-employed,Arusha,Urban,1,Sometimes,No,No,No,No,Regularly,9,Moderate,Unknown,Low Risk
+54,Male,Widowed,Primary,Student,Mbeya,Rural,2,Never,Yes,No,No,No,Never,9,Good,Negative,Low Risk
+18,Male,Divorced,Secondary,Employed,Arusha,Rural,3,Always,Yes,No,No,No,Regularly,5,Moderate,Negative,Low Risk
+16,Female,Married,No Education,Self-employed,Mbeya,Urban,2,Sometimes,No,No,No,No,Occasionally,0,Moderate,Unknown,High Risk
+20,Female,Single,Primary,Unemployed,Mbeya,Rural,1,Never,Yes,No,No,No,Never,10,Moderate,Unknown,Low Risk
+56,Female,Single,Secondary,Employed,Dodoma,Rural,1,Sometimes,No,No,No,No,Never,2,Good,Positive,High Risk
+18,Female,Married,Secondary,Employed,Dar es Salaam,Rural,1,Always,Yes,Yes,No,Yes,Occasionally,0,Moderate,Unknown,High Risk
+43,Male,Married,No Education,Unemployed,Zanzibar,Rural,1,Always,No,No,No,No,Occasionally,9,Good,Negative,Low Risk
+32,Female,Single,Tertiary,Employed,Dodoma,Rural,1,Sometimes,Yes,No,No,No,Occasionally,8,Good,Positive,Low Risk
+40,Male,Divorced,Tertiary,Employed,Dodoma,Urban,1,Always,Yes,No,No,No,Regularly,8,Moderate,Unknown,Low Risk
+58,Male,Married,Primary,Employed,Tanga,Rural,1,Sometimes,No,No,No,No,Regularly,4,Good,Unknown,Low Risk
+48,Female,Married,Primary,Unemployed,Mbeya,Urban,1,Never,No,No,No,No,Never,3,Good,Unknown,Low Risk
+24,Male,Married,Tertiary,Self-employed,Mbeya,Urban,0,Always,Yes,No,No,No,Regularly,8,Good,Unknown,Low Risk
+50,Male,Married,Secondary,Unemployed,Zanzibar,Urban,1,Never,No,Yes,No,No,Regularly,8,Moderate,Unknown,High Risk
+28,Male,Single,Secondary,Student,Arusha,Rural,1,Sometimes,No,No,No,No,Regularly,2,Good,Unknown,Low Risk
+45,Male,Single,Secondary,Unemployed,Arusha,Rural,1,Always,Yes,No,No,No,Occasionally,4,Good,Positive,Low Risk
+62,Female,Single,Primary,Self-employed,Morogoro,Urban,2,Never,No,Yes,No,No,Regularly,2,Moderate,Unknown,High Risk
+29,Female,Single,Primary,Student,Dodoma,Rural,1,Never,Yes,No,No,Yes,Occasionally,9,Moderate,Unknown,High Risk
+22,Female,Married,Primary,Self-employed,Morogoro,Rural,1,Sometimes,No,No,No,No,Never,1,Poor,Positive,High Risk
+28,Female,Married,Secondary,Unemployed,Mwanza,Urban,1,Never,No,No,No,No,Regularly,0,Moderate,Negative,High Risk
+37,Male,Single,Secondary,Self-employed,Mwanza,Urban,1,Never,Yes,Yes,No,No,Never,9,Moderate,Negative,Low Risk
+54,Male,Divorced,Secondary,Employed,Morogoro,Rural,0,Never,Yes,No,No,Yes,Never,1,Moderate,Unknown,High Risk
+35,Female,Single,Primary,Unemployed,Arusha,Urban,1,Sometimes,Yes,No,No,No,Regularly,7,Good,Positive,Low Risk
+30,Female,Widowed,Primary,Unemployed,Mwanza,Rural,2,Never,Yes,No,No,No,Never,10,Poor,Unknown,High Risk
+59,Female,Widowed,Primary,Unemployed,Tanga,Urban,1,Never,No,No,No,No,Regularly,7,Moderate,Negative,Low Risk
+32,Male,Single,Secondary,Employed,Arusha,Rural,1,Never,Yes,No,No,No,Occasionally,2,Good,Negative,Low Risk
+61,Female,Married,Secondary,Student,Mbeya,Rural,3,Always,Yes,No,No,No,Never,6,Poor,Unknown,Low Risk
+38,Female,Single,No Education,Self-employed,Dodoma,Rural,1,Sometimes,No,Yes,No,No,Occasionally,6,Good,Negative,High Risk
+40,Female,Married,Tertiary,Unemployed,Dar es Salaam,Rural,1,Sometimes,No,No,No,No,Regularly,1,Poor,Negative,Low Risk
+39,Male,Married,No Education,Student,Dodoma,Rural,3,Always,Yes,No,No,No,Occasionally,8,Poor,Positive,High Risk
+59,Male,Single,Tertiary,Unemployed,Morogoro,Rural,3,Never,No,No,No,No,Regularly,2,Moderate,Unknown,High Risk
+55,Male,Married,No Education,Student,Arusha,Rural,1,Always,No,No,No,Yes,Regularly,1,Good,Unknown,High Risk
+43,Male,Single,Secondary,Unemployed,Morogoro,Urban,1,Always,No,No,Yes,No,Never,2,Good,Unknown,Low Risk
+29,Male,Single,No Education,Employed,Tanga,Rural,1,Never,No,No,Yes,No,Never,1,Good,Unknown,High Risk
+59,Male,Married,Tertiary,Self-employed,Arusha,Urban,1,Sometimes,No,No,No,Yes,Regularly,7,Good,Negative,Low Risk
+15,Male,Single,Primary,Self-employed,Dodoma,Rural,2,Always,Yes,No,No,No,Occasionally,4,Moderate,Negative,Low Risk
+39,Male,Married,No Education,Self-employed,Tanga,Urban,1,Sometimes,Yes,Yes,Yes,No,Never,2,Poor,Negative,High Risk
+21,Female,Married,Primary,Student,Tanga,Rural,1,Sometimes,No,No,No,No,Regularly,4,Moderate,Negative,Low Risk
+23,Female,Widowed,Primary,Self-employed,Tanga,Urban,4,Always,No,No,No,No,Regularly,10,Moderate,Negative,Low Risk
+38,Male,Single,Primary,Self-employed,Zanzibar,Rural,4,Never,No,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+15,Male,Married,Tertiary,Student,Arusha,Rural,1,Sometimes,No,No,No,No,Occasionally,7,Poor,Unknown,Low Risk
+58,Female,Married,Primary,Self-employed,Mwanza,Urban,2,Sometimes,Yes,Yes,No,No,Occasionally,6,Good,Negative,Low Risk
+22,Male,Married,Secondary,Unemployed,Mwanza,Rural,1,Sometimes,No,Yes,Yes,No,Occasionally,5,Moderate,Unknown,High Risk
+38,Male,Widowed,Secondary,Student,Arusha,Urban,3,Sometimes,No,No,No,No,Regularly,0,Poor,Unknown,High Risk
+25,Male,Married,Secondary,Employed,Arusha,Rural,1,Always,No,No,No,No,Regularly,9,Poor,Unknown,Low Risk
+31,Female,Married,No Education,Self-employed,Zanzibar,Rural,0,Always,Yes,No,No,No,Occasionally,0,Poor,Unknown,Low Risk
+22,Female,Divorced,Primary,Student,Mwanza,Urban,1,Sometimes,Yes,No,No,No,Regularly,0,Moderate,Unknown,Low Risk
+49,Female,Widowed,Secondary,Self-employed,Arusha,Rural,1,Never,No,No,No,No,Regularly,9,Good,Negative,Low Risk
+49,Female,Widowed,Tertiary,Self-employed,Arusha,Urban,1,Always,Yes,Yes,No,Yes,Never,7,Moderate,Positive,High Risk
+47,Female,Married,Primary,Self-employed,Morogoro,Urban,3,Sometimes,No,No,No,No,Never,7,Good,Positive,Low Risk
+19,Male,Married,Primary,Unemployed,Zanzibar,Rural,2,Never,Yes,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+56,Female,Single,Primary,Student,Zanzibar,Urban,1,Always,No,No,No,No,Never,5,Moderate,Unknown,Low Risk
+53,Male,Single,Tertiary,Employed,Dodoma,Rural,1,Always,No,Yes,No,No,Never,3,Moderate,Unknown,Low Risk
+55,Male,Married,Primary,Employed,Zanzibar,Rural,1,Sometimes,No,No,Yes,No,Never,0,Poor,Unknown,High Risk
+42,Female,Single,Primary,Employed,Dar es Salaam,Urban,3,Sometimes,Yes,No,No,No,Occasionally,8,Moderate,Positive,High Risk
+21,Female,Married,Tertiary,Unemployed,Mwanza,Rural,4,Always,No,No,No,No,Never,0,Good,Unknown,Low Risk
+23,Male,Single,No Education,Unemployed,Dodoma,Urban,5,Sometimes,No,No,No,No,Never,3,Good,Negative,High Risk
+22,Male,Single,No Education,Self-employed,Dar es Salaam,Urban,3,Sometimes,Yes,No,Yes,No,Regularly,2,Poor,Unknown,High Risk
+26,Male,Divorced,Secondary,Unemployed,Arusha,Urban,1,Sometimes,No,Yes,No,No,Occasionally,6,Good,Negative,Low Risk
+48,Female,Widowed,Tertiary,Unemployed,Morogoro,Urban,0,Always,Yes,No,Yes,No,Occasionally,4,Good,Positive,High Risk
+47,Female,Single,Primary,Employed,Morogoro,Urban,2,Sometimes,Yes,No,Yes,No,Never,4,Good,Negative,Low Risk
+62,Female,Married,Primary,Unemployed,Arusha,Urban,4,Never,Yes,Yes,No,No,Occasionally,3,Moderate,Unknown,High Risk
+37,Female,Divorced,Primary,Self-employed,Dodoma,Rural,1,Never,No,Yes,No,No,Occasionally,0,Good,Negative,High Risk
+38,Female,Single,Primary,Employed,Zanzibar,Rural,0,Never,Yes,Yes,Yes,No,Occasionally,4,Poor,Negative,High Risk
+51,Male,Divorced,Secondary,Employed,Tanga,Rural,3,Sometimes,No,Yes,Yes,No,Never,3,Poor,Unknown,High Risk
+49,Female,Married,Primary,Employed,Morogoro,Rural,1,Sometimes,Yes,No,Yes,No,Occasionally,9,Poor,Unknown,Low Risk
+58,Male,Single,Primary,Employed,Tanga,Rural,1,Sometimes,Yes,No,No,No,Regularly,7,Good,Positive,Low Risk
+54,Male,Widowed,Primary,Unemployed,Arusha,Urban,2,Always,No,No,No,No,Occasionally,1,Poor,Unknown,Low Risk
+36,Male,Single,Secondary,Employed,Tanga,Rural,1,Always,No,No,Yes,No,Occasionally,7,Poor,Negative,Low Risk
+41,Female,Married,Secondary,Self-employed,Mbeya,Rural,1,Sometimes,No,No,No,No,Occasionally,0,Poor,Negative,Low Risk
+49,Female,Divorced,Tertiary,Self-employed,Dodoma,Urban,3,Always,Yes,No,No,No,Occasionally,3,Moderate,Negative,Low Risk
+15,Female,Single,No Education,Unemployed,Dar es Salaam,Rural,2,Always,Yes,Yes,No,No,Regularly,2,Moderate,Negative,High Risk
+49,Male,Married,Secondary,Student,Dodoma,Rural,5,Never,No,No,No,No,Never,4,Good,Negative,High Risk
+51,Male,Widowed,Secondary,Unemployed,Mwanza,Rural,1,Always,No,No,No,Yes,Occasionally,4,Poor,Negative,High Risk
+61,Male,Single,Primary,Unemployed,Zanzibar,Rural,1,Always,Yes,Yes,No,No,Regularly,4,Good,Negative,Low Risk
+28,Male,Divorced,Primary,Student,Zanzibar,Urban,2,Always,Yes,No,No,No,Regularly,3,Good,Unknown,Low Risk
+17,Male,Married,Primary,Employed,Dodoma,Urban,2,Sometimes,No,No,No,No,Never,7,Poor,Unknown,Low Risk
+15,Male,Married,Primary,Student,Arusha,Urban,1,Sometimes,Yes,No,No,No,Never,2,Moderate,Negative,Low Risk
+19,Female,Married,Primary,Employed,Arusha,Rural,3,Sometimes,No,Yes,No,No,Occasionally,3,Good,Negative,High Risk
+40,Female,Single,No Education,Unemployed,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Regularly,0,Poor,Unknown,High Risk
+28,Female,Widowed,Primary,Employed,Mbeya,Rural,1,Never,Yes,No,No,No,Occasionally,6,Poor,Unknown,Low Risk
+53,Female,Widowed,Secondary,Self-employed,Zanzibar,Urban,1,Never,No,No,No,No,Occasionally,0,Good,Unknown,High Risk
+41,Male,Married,Primary,Self-employed,Mbeya,Urban,1,Never,Yes,No,No,No,Never,1,Poor,Negative,Low Risk
+23,Male,Divorced,Secondary,Self-employed,Morogoro,Rural,1,Never,Yes,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+29,Female,Married,Secondary,Unemployed,Morogoro,Rural,2,Sometimes,No,Yes,Yes,No,Occasionally,6,Moderate,Unknown,High Risk
+29,Male,Married,Tertiary,Unemployed,Dar es Salaam,Urban,2,Always,Yes,No,No,No,Regularly,0,Good,Negative,Low Risk
+40,Female,Married,Secondary,Employed,Mbeya,Urban,4,Always,Yes,No,No,No,Never,10,Good,Unknown,Low Risk
+56,Female,Married,No Education,Unemployed,Dar es Salaam,Rural,1,Always,No,Yes,Yes,No,Regularly,2,Good,Unknown,High Risk
+27,Female,Married,Secondary,Student,Mbeya,Urban,1,Sometimes,Yes,Yes,Yes,No,Occasionally,5,Good,Negative,Low Risk
+46,Male,Divorced,No Education,Unemployed,Zanzibar,Urban,0,Never,Yes,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+53,Female,Married,Primary,Self-employed,Zanzibar,Rural,1,Sometimes,Yes,No,No,No,Regularly,5,Moderate,Unknown,Low Risk
+63,Female,Single,Tertiary,Self-employed,Dar es Salaam,Rural,2,Always,No,Yes,No,No,Never,10,Poor,Negative,Low Risk
+46,Female,Single,Primary,Unemployed,Dodoma,Urban,2,Sometimes,No,No,Yes,No,Never,1,Moderate,Negative,High Risk
+18,Male,Married,Primary,Self-employed,Zanzibar,Rural,3,Never,No,No,No,No,Regularly,1,Good,Unknown,High Risk
+44,Male,Married,Secondary,Employed,Dodoma,Rural,1,Sometimes,Yes,No,No,No,Occasionally,5,Poor,Unknown,Low Risk
+51,Female,Married,Tertiary,Employed,Arusha,Rural,1,Never,No,No,No,No,Never,9,Poor,Negative,Low Risk
+37,Male,Married,Secondary,Employed,Morogoro,Rural,1,Never,No,No,No,No,Occasionally,4,Good,Negative,Low Risk
+53,Male,Married,Primary,Unemployed,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+59,Male,Married,Secondary,Unemployed,Tanga,Rural,2,Never,No,No,No,No,Regularly,6,Moderate,Unknown,High Risk
+29,Male,Single,Primary,Unemployed,Zanzibar,Rural,5,Never,No,No,No,No,Never,4,Moderate,Unknown,High Risk
+57,Male,Married,Secondary,Unemployed,Mwanza,Urban,1,Always,No,Yes,No,No,Regularly,7,Poor,Unknown,Low Risk
+43,Male,Married,Tertiary,Unemployed,Arusha,Rural,3,Always,No,No,No,No,Never,9,Good,Negative,Low Risk
+50,Male,Divorced,Secondary,Self-employed,Dodoma,Rural,2,Sometimes,Yes,No,No,No,Never,5,Good,Negative,Low Risk
+27,Male,Married,Tertiary,Self-employed,Zanzibar,Urban,1,Always,Yes,No,No,No,Never,4,Moderate,Negative,Low Risk
+46,Male,Single,No Education,Employed,Dar es Salaam,Urban,2,Never,Yes,No,No,No,Regularly,3,Moderate,Negative,High Risk
+21,Male,Single,Secondary,Employed,Tanga,Rural,1,Always,Yes,No,Yes,No,Never,6,Good,Negative,Low Risk
+36,Female,Single,Secondary,Self-employed,Mbeya,Rural,0,Never,Yes,Yes,No,No,Regularly,3,Moderate,Negative,High Risk
+42,Female,Married,No Education,Unemployed,Tanga,Urban,2,Sometimes,No,No,No,No,Occasionally,4,Moderate,Unknown,High Risk
+16,Male,Single,Tertiary,Self-employed,Mwanza,Rural,3,Sometimes,Yes,Yes,No,No,Regularly,4,Moderate,Unknown,High Risk
+56,Female,Married,Primary,Unemployed,Dodoma,Urban,1,Never,Yes,No,No,No,Regularly,0,Good,Unknown,Low Risk
+59,Female,Married,Secondary,Unemployed,Arusha,Urban,1,Sometimes,No,No,Yes,No,Occasionally,0,Moderate,Negative,Low Risk
+20,Male,Single,Secondary,Employed,Tanga,Rural,3,Sometimes,Yes,No,No,Yes,Regularly,2,Poor,Negative,High Risk
+42,Male,Married,Secondary,Employed,Dar es Salaam,Urban,3,Always,No,No,No,No,Occasionally,10,Poor,Negative,Low Risk
+42,Male,Single,No Education,Self-employed,Mwanza,Urban,2,Sometimes,No,No,No,No,Regularly,2,Good,Unknown,High Risk
+58,Female,Married,Secondary,Unemployed,Dar es Salaam,Rural,1,Always,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+58,Female,Single,Secondary,Self-employed,Zanzibar,Urban,4,Sometimes,Yes,No,No,Yes,Never,1,Poor,Negative,High Risk
+34,Male,Divorced,Tertiary,Student,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Occasionally,5,Moderate,Negative,Low Risk
+44,Male,Single,Primary,Unemployed,Arusha,Rural,2,Never,No,No,No,No,Occasionally,0,Moderate,Unknown,High Risk
+25,Male,Widowed,Primary,Self-employed,Dar es Salaam,Rural,0,Never,Yes,Yes,No,No,Occasionally,5,Moderate,Unknown,Low Risk
+42,Female,Married,Secondary,Unemployed,Dodoma,Rural,2,Sometimes,No,Yes,No,No,Occasionally,4,Good,Unknown,High Risk
+39,Female,Divorced,Primary,Unemployed,Zanzibar,Rural,1,Sometimes,No,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+53,Female,Married,Secondary,Self-employed,Zanzibar,Urban,1,Never,Yes,Yes,No,No,Occasionally,4,Moderate,Negative,High Risk
+47,Female,Married,Secondary,Unemployed,Arusha,Rural,1,Sometimes,No,No,Yes,No,Never,6,Moderate,Negative,Low Risk
+15,Male,Divorced,Tertiary,Unemployed,Zanzibar,Rural,1,Sometimes,Yes,No,No,No,Regularly,0,Good,Negative,Low Risk
+41,Male,Married,Secondary,Employed,Dodoma,Rural,2,Sometimes,No,No,Yes,No,Regularly,2,Poor,Negative,High Risk
+27,Male,Married,Secondary,Unemployed,Dar es Salaam,Rural,3,Never,Yes,Yes,Yes,No,Regularly,5,Moderate,Negative,High Risk
+55,Male,Married,No Education,Student,Arusha,Rural,4,Sometimes,No,No,No,No,Occasionally,0,Moderate,Negative,Low Risk
+17,Female,Married,No Education,Student,Morogoro,Rural,1,Sometimes,Yes,No,No,No,Occasionally,10,Poor,Negative,Low Risk
+53,Female,Single,Primary,Self-employed,Zanzibar,Rural,2,Sometimes,No,Yes,No,No,Regularly,10,Moderate,Negative,High Risk
+20,Male,Married,Primary,Self-employed,Zanzibar,Rural,2,Sometimes,Yes,No,No,No,Regularly,6,Poor,Unknown,High Risk
+22,Male,Married,Secondary,Unemployed,Dodoma,Rural,1,Always,Yes,No,No,No,Regularly,3,Poor,Unknown,Low Risk
+41,Female,Married,Secondary,Unemployed,Mbeya,Rural,0,Sometimes,No,No,No,No,Occasionally,2,Moderate,Unknown,Low Risk
+23,Male,Divorced,Secondary,Employed,Mbeya,Rural,2,Never,Yes,No,No,No,Occasionally,9,Moderate,Positive,High Risk
+51,Female,Married,Secondary,Unemployed,Tanga,Rural,4,Never,No,No,No,No,Regularly,8,Poor,Negative,High Risk
+47,Male,Widowed,Tertiary,Unemployed,Zanzibar,Rural,2,Sometimes,No,Yes,No,No,Never,0,Good,Unknown,High Risk
+56,Male,Single,Secondary,Student,Morogoro,Rural,1,Sometimes,Yes,No,No,No,Occasionally,7,Good,Negative,Low Risk
+58,Male,Married,Secondary,Unemployed,Dar es Salaam,Rural,2,Always,Yes,No,No,No,Regularly,0,Poor,Unknown,High Risk
+38,Male,Married,Secondary,Unemployed,Arusha,Rural,1,Never,Yes,No,No,No,Occasionally,4,Poor,Negative,Low Risk
+29,Male,Married,Primary,Unemployed,Zanzibar,Rural,3,Never,No,No,No,No,Occasionally,9,Poor,Unknown,High Risk
+46,Male,Divorced,No Education,Self-employed,Mwanza,Rural,2,Always,Yes,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+46,Male,Single,Primary,Self-employed,Arusha,Rural,1,Always,Yes,No,No,No,Regularly,5,Good,Unknown,Low Risk
+38,Female,Divorced,Tertiary,Employed,Tanga,Rural,3,Never,Yes,No,No,No,Occasionally,6,Good,Unknown,High Risk
+55,Female,Married,Secondary,Unemployed,Mbeya,Rural,1,Sometimes,Yes,No,No,No,Regularly,10,Moderate,Negative,Low Risk
+63,Female,Married,Primary,Self-employed,Morogoro,Rural,5,Sometimes,No,No,Yes,No,Occasionally,7,Moderate,Negative,Low Risk
+63,Female,Married,Primary,Unemployed,Zanzibar,Rural,1,Always,Yes,No,No,No,Occasionally,5,Moderate,Negative,Low Risk
+26,Female,Married,Secondary,Employed,Dodoma,Rural,1,Always,No,No,No,No,Occasionally,10,Good,Negative,Low Risk
+53,Male,Married,No Education,Self-employed,Mwanza,Urban,1,Sometimes,No,No,No,No,Occasionally,5,Moderate,Negative,Low Risk
+16,Male,Married,Primary,Self-employed,Zanzibar,Urban,1,Never,No,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+17,Female,Single,Tertiary,Employed,Morogoro,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,5,Good,Unknown,Low Risk
+63,Male,Married,Primary,Self-employed,Tanga,Rural,2,Sometimes,No,No,No,No,Never,4,Poor,Positive,High Risk
+51,Female,Single,No Education,Self-employed,Dar es Salaam,Rural,2,Always,No,No,No,No,Never,7,Good,Negative,Low Risk
+63,Female,Married,Secondary,Unemployed,Mwanza,Rural,2,Sometimes,Yes,Yes,No,No,Never,1,Moderate,Negative,High Risk
+31,Male,Married,Tertiary,Student,Tanga,Rural,0,Always,Yes,No,No,No,Regularly,6,Poor,Negative,Low Risk
+63,Male,Married,Secondary,Self-employed,Zanzibar,Rural,2,Sometimes,Yes,No,No,No,Never,3,Moderate,Negative,Low Risk
+16,Male,Married,Primary,Self-employed,Dar es Salaam,Rural,1,Never,Yes,Yes,No,No,Never,0,Good,Unknown,High Risk
+16,Female,Single,Primary,Self-employed,Mwanza,Rural,2,Always,Yes,No,No,No,Never,4,Good,Negative,Low Risk
+42,Male,Married,Primary,Employed,Dar es Salaam,Urban,1,Always,No,No,No,No,Occasionally,2,Poor,Negative,Low Risk
+37,Female,Single,Secondary,Employed,Dar es Salaam,Rural,4,Always,Yes,No,No,No,Never,3,Good,Positive,High Risk
+51,Female,Married,Secondary,Unemployed,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+46,Female,Divorced,No Education,Employed,Mwanza,Urban,2,Never,No,No,No,No,Never,4,Poor,Unknown,High Risk
+47,Male,Single,Tertiary,Unemployed,Dar es Salaam,Rural,1,Always,Yes,No,No,No,Regularly,3,Poor,Negative,Low Risk
+15,Male,Married,No Education,Student,Tanga,Urban,1,Never,No,Yes,No,No,Regularly,0,Moderate,Negative,High Risk
+33,Female,Married,Primary,Self-employed,Morogoro,Urban,1,Always,Yes,Yes,No,No,Regularly,5,Poor,Positive,High Risk
+16,Male,Married,No Education,Self-employed,Mbeya,Urban,3,Never,No,No,No,No,Occasionally,10,Poor,Unknown,High Risk
+58,Male,Single,Primary,Student,Mwanza,Urban,4,Sometimes,Yes,No,No,No,Occasionally,9,Moderate,Positive,High Risk
+40,Male,Single,Secondary,Self-employed,Zanzibar,Rural,0,Sometimes,No,Yes,No,No,Occasionally,5,Good,Unknown,High Risk
+46,Female,Divorced,Secondary,Unemployed,Arusha,Rural,2,Sometimes,No,No,No,No,Occasionally,6,Good,Negative,Low Risk
+20,Female,Married,Primary,Employed,Dodoma,Rural,2,Sometimes,Yes,Yes,No,No,Occasionally,0,Good,Negative,High Risk
+46,Male,Single,Secondary,Unemployed,Dar es Salaam,Urban,2,Never,Yes,No,No,No,Never,3,Poor,Unknown,High Risk
+18,Female,Married,No Education,Self-employed,Dar es Salaam,Urban,1,Never,No,No,No,No,Regularly,8,Moderate,Negative,Low Risk
+25,Male,Married,Secondary,Unemployed,Dodoma,Urban,1,Sometimes,Yes,No,No,No,Never,9,Poor,Negative,Low Risk
+31,Male,Single,Tertiary,Self-employed,Mbeya,Rural,1,Always,No,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+52,Male,Married,Primary,Employed,Dodoma,Urban,3,Always,No,Yes,No,No,Occasionally,1,Moderate,Positive,High Risk
+38,Male,Married,Secondary,Self-employed,Mwanza,Rural,1,Never,Yes,No,No,No,Occasionally,3,Moderate,Unknown,Low Risk
+19,Female,Widowed,Primary,Self-employed,Dodoma,Urban,1,Sometimes,Yes,No,No,No,Regularly,5,Good,Positive,Low Risk
+48,Female,Single,No Education,Self-employed,Dar es Salaam,Rural,4,Sometimes,Yes,No,No,No,Occasionally,3,Poor,Unknown,High Risk
+20,Female,Married,Primary,Student,Dodoma,Urban,2,Sometimes,Yes,Yes,No,No,Occasionally,9,Moderate,Negative,Low Risk
+36,Male,Married,Secondary,Self-employed,Arusha,Urban,3,Never,No,No,No,No,Occasionally,6,Moderate,Negative,High Risk
+25,Male,Married,Secondary,Student,Zanzibar,Rural,1,Sometimes,No,Yes,No,No,Never,2,Good,Unknown,Low Risk
+62,Male,Married,No Education,Student,Mwanza,Urban,1,Never,Yes,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+30,Female,Married,Secondary,Self-employed,Dodoma,Urban,4,Never,Yes,No,No,No,Regularly,3,Poor,Negative,High Risk
+47,Male,Divorced,Secondary,Self-employed,Dar es Salaam,Rural,1,Sometimes,Yes,No,No,No,Regularly,2,Moderate,Negative,Low Risk
+23,Female,Married,Secondary,Employed,Tanga,Rural,1,Always,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+20,Female,Married,Secondary,Unemployed,Zanzibar,Rural,1,Never,No,Yes,No,No,Never,1,Moderate,Unknown,High Risk
+30,Female,Divorced,Secondary,Unemployed,Mwanza,Urban,1,Sometimes,Yes,Yes,No,No,Never,10,Good,Negative,Low Risk
+43,Female,Married,No Education,Unemployed,Dar es Salaam,Urban,1,Never,No,No,No,No,Occasionally,2,Good,Negative,Low Risk
+17,Female,Married,Primary,Unemployed,Mbeya,Urban,3,Always,No,Yes,Yes,No,Regularly,9,Moderate,Unknown,High Risk
+34,Female,Single,Tertiary,Student,Arusha,Urban,4,Always,No,Yes,No,No,Occasionally,0,Good,Positive,High Risk
+50,Male,Widowed,Primary,Student,Morogoro,Rural,4,Never,Yes,No,No,No,Regularly,2,Moderate,Negative,High Risk
+33,Male,Single,Tertiary,Self-employed,Mbeya,Rural,1,Sometimes,No,Yes,No,No,Occasionally,8,Moderate,Negative,Low Risk
+40,Female,Single,Secondary,Unemployed,Morogoro,Urban,1,Sometimes,No,No,No,No,Never,3,Moderate,Unknown,Low Risk
+17,Female,Single,No Education,Employed,Arusha,Rural,0,Never,No,Yes,No,No,Never,2,Good,Unknown,High Risk
+33,Male,Married,No Education,Employed,Dodoma,Urban,3,Sometimes,Yes,No,No,No,Never,7,Moderate,Unknown,High Risk
+34,Female,Single,Primary,Unemployed,Mwanza,Rural,1,Sometimes,Yes,No,No,No,Occasionally,0,Good,Negative,Low Risk
+46,Female,Single,Tertiary,Employed,Dodoma,Urban,2,Always,No,No,No,No,Never,4,Moderate,Unknown,Low Risk
+21,Male,Single,Primary,Employed,Arusha,Urban,2,Never,Yes,Yes,No,No,Occasionally,0,Moderate,Negative,High Risk
+55,Female,Single,Primary,Student,Arusha,Rural,1,Never,Yes,No,No,No,Occasionally,6,Poor,Negative,Low Risk
+47,Female,Married,Primary,Self-employed,Arusha,Rural,1,Always,No,No,Yes,No,Never,4,Good,Unknown,Low Risk
+54,Female,Married,No Education,Unemployed,Morogoro,Rural,4,Never,Yes,No,No,Yes,Never,1,Poor,Negative,High Risk
+53,Male,Married,Primary,Employed,Zanzibar,Urban,4,Never,Yes,No,No,No,Never,0,Good,Negative,High Risk
+32,Male,Married,No Education,Unemployed,Dar es Salaam,Urban,1,Sometimes,Yes,No,No,No,Occasionally,10,Moderate,Unknown,Low Risk
+54,Male,Married,Secondary,Employed,Mwanza,Rural,1,Sometimes,No,Yes,No,No,Occasionally,6,Moderate,Unknown,Low Risk
+15,Female,Single,Primary,Student,Dodoma,Urban,5,Sometimes,Yes,No,No,No,Never,0,Moderate,Positive,High Risk
+25,Female,Single,Primary,Unemployed,Dodoma,Rural,0,Always,No,No,No,No,Regularly,2,Moderate,Positive,High Risk
+42,Male,Widowed,Primary,Unemployed,Mbeya,Urban,1,Never,Yes,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+39,Female,Married,Primary,Unemployed,Morogoro,Rural,1,Never,Yes,Yes,No,No,Occasionally,5,Good,Negative,Low Risk
+64,Female,Single,Tertiary,Employed,Arusha,Rural,2,Sometimes,No,No,No,Yes,Occasionally,5,Poor,Negative,High Risk
+37,Female,Married,Secondary,Self-employed,Tanga,Urban,0,Sometimes,Yes,No,No,No,Regularly,6,Good,Negative,Low Risk
+45,Female,Single,No Education,Self-employed,Arusha,Rural,1,Always,No,Yes,No,No,Occasionally,10,Good,Unknown,Low Risk
+44,Female,Married,Secondary,Self-employed,Arusha,Rural,1,Always,Yes,No,No,No,Occasionally,10,Good,Negative,Low Risk
+56,Male,Single,Primary,Employed,Tanga,Urban,2,Sometimes,Yes,Yes,No,No,Occasionally,0,Good,Negative,High Risk
+49,Female,Single,No Education,Unemployed,Dodoma,Rural,5,Always,Yes,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+21,Male,Single,Tertiary,Unemployed,Mbeya,Rural,3,Sometimes,Yes,Yes,No,No,Occasionally,1,Moderate,Negative,Low Risk
+30,Female,Widowed,Secondary,Student,Dar es Salaam,Urban,3,Sometimes,No,No,Yes,No,Occasionally,5,Good,Negative,Low Risk
+40,Male,Married,Tertiary,Unemployed,Tanga,Urban,2,Never,No,No,No,No,Regularly,7,Good,Unknown,High Risk
+62,Female,Single,Primary,Unemployed,Morogoro,Urban,0,Sometimes,Yes,No,No,Yes,Regularly,4,Moderate,Unknown,High Risk
+63,Male,Single,Secondary,Self-employed,Zanzibar,Rural,1,Sometimes,No,No,No,No,Never,9,Poor,Negative,Low Risk
+16,Female,Married,Primary,Self-employed,Mwanza,Rural,4,Sometimes,No,Yes,Yes,No,Never,2,Poor,Unknown,High Risk
+15,Male,Single,Primary,Unemployed,Morogoro,Rural,1,Always,Yes,No,No,No,Never,10,Poor,Negative,Low Risk
+62,Female,Single,Secondary,Unemployed,Tanga,Rural,1,Always,Yes,No,Yes,No,Regularly,7,Poor,Unknown,Low Risk
+26,Male,Widowed,Primary,Unemployed,Dar es Salaam,Rural,2,Always,No,No,Yes,No,Occasionally,7,Poor,Positive,High Risk
+19,Female,Single,Secondary,Student,Dodoma,Rural,1,Never,No,No,No,No,Never,3,Moderate,Unknown,Low Risk
+51,Male,Married,Secondary,Unemployed,Zanzibar,Urban,1,Always,No,No,No,No,Never,7,Good,Positive,Low Risk
+46,Male,Widowed,Primary,Student,Zanzibar,Rural,5,Never,No,No,No,No,Never,4,Moderate,Negative,High Risk
+23,Female,Married,Secondary,Unemployed,Zanzibar,Urban,3,Never,No,No,No,No,Never,10,Good,Unknown,High Risk
+55,Female,Single,Secondary,Student,Arusha,Rural,1,Never,Yes,No,No,No,Never,4,Poor,Negative,High Risk
+49,Male,Single,Primary,Self-employed,Mwanza,Urban,5,Always,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+33,Female,Divorced,Secondary,Unemployed,Dodoma,Urban,2,Never,Yes,Yes,No,No,Never,6,Moderate,Positive,High Risk
+62,Male,Divorced,Secondary,Student,Dodoma,Urban,2,Always,No,No,No,No,Never,10,Good,Unknown,Low Risk
+30,Male,Divorced,Primary,Employed,Zanzibar,Urban,0,Sometimes,No,No,No,Yes,Regularly,10,Moderate,Negative,Low Risk
+17,Male,Single,Secondary,Student,Dodoma,Rural,1,Never,No,No,No,No,Regularly,8,Good,Negative,Low Risk
+34,Female,Divorced,Tertiary,Self-employed,Mwanza,Rural,2,Sometimes,No,Yes,No,No,Never,8,Good,Unknown,High Risk
+38,Male,Widowed,Primary,Employed,Mwanza,Rural,3,Sometimes,No,No,No,No,Never,0,Moderate,Negative,High Risk
+47,Male,Married,Secondary,Self-employed,Mbeya,Rural,2,Always,No,No,No,No,Occasionally,0,Good,Positive,High Risk
+38,Female,Widowed,Primary,Student,Tanga,Rural,1,Sometimes,Yes,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+25,Female,Divorced,Secondary,Employed,Tanga,Urban,1,Sometimes,No,No,No,No,Never,10,Moderate,Unknown,Low Risk
+63,Female,Married,Secondary,Unemployed,Mbeya,Urban,3,Sometimes,No,Yes,No,No,Never,4,Poor,Unknown,High Risk
+22,Female,Married,Primary,Self-employed,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Never,0,Moderate,Negative,Low Risk
+50,Male,Single,Primary,Self-employed,Tanga,Rural,2,Never,No,No,No,No,Occasionally,3,Moderate,Negative,High Risk
+52,Male,Single,Secondary,Unemployed,Mwanza,Urban,0,Never,No,No,Yes,No,Regularly,0,Poor,Unknown,High Risk
+54,Male,Married,Primary,Employed,Mwanza,Urban,1,Sometimes,Yes,No,No,No,Regularly,1,Moderate,Unknown,Low Risk
+34,Male,Single,Secondary,Employed,Tanga,Urban,2,Sometimes,Yes,No,No,No,Occasionally,1,Moderate,Unknown,High Risk
+49,Female,Divorced,No Education,Unemployed,Mwanza,Rural,2,Never,No,No,No,No,Occasionally,3,Moderate,Negative,High Risk
+62,Male,Widowed,Tertiary,Unemployed,Mbeya,Urban,1,Never,No,Yes,No,No,Occasionally,7,Poor,Negative,High Risk
+39,Male,Divorced,Secondary,Student,Zanzibar,Rural,1,Sometimes,No,No,No,No,Occasionally,1,Good,Negative,Low Risk
+49,Female,Single,Tertiary,Employed,Zanzibar,Rural,3,Always,Yes,No,No,No,Never,8,Moderate,Unknown,Low Risk
+39,Male,Single,No Education,Self-employed,Dodoma,Urban,1,Always,Yes,No,No,No,Occasionally,8,Poor,Negative,Low Risk
+43,Male,Single,Secondary,Employed,Morogoro,Rural,2,Sometimes,Yes,No,No,No,Regularly,1,Good,Negative,Low Risk
+32,Male,Married,Secondary,Employed,Morogoro,Rural,4,Sometimes,Yes,No,No,No,Occasionally,0,Poor,Negative,Low Risk
+60,Male,Divorced,Primary,Unemployed,Zanzibar,Rural,1,Never,Yes,No,No,No,Regularly,9,Moderate,Negative,Low Risk
+32,Male,Widowed,Primary,Unemployed,Arusha,Rural,4,Always,No,Yes,No,Yes,Occasionally,9,Moderate,Negative,High Risk
+16,Male,Married,No Education,Self-employed,Mbeya,Rural,1,Always,Yes,No,No,No,Occasionally,8,Poor,Unknown,Low Risk
+49,Female,Widowed,Secondary,Student,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+30,Female,Divorced,Secondary,Self-employed,Tanga,Urban,1,Sometimes,Yes,No,No,No,Occasionally,7,Poor,Negative,Low Risk
+55,Male,Single,No Education,Student,Zanzibar,Urban,4,Always,Yes,No,No,No,Regularly,2,Poor,Negative,Low Risk
+50,Male,Divorced,Secondary,Student,Mbeya,Urban,1,Sometimes,No,No,No,No,Occasionally,0,Moderate,Unknown,Low Risk
+47,Female,Married,Primary,Unemployed,Zanzibar,Urban,1,Sometimes,No,No,No,No,Never,10,Poor,Unknown,Low Risk
+18,Male,Single,No Education,Self-employed,Dar es Salaam,Urban,5,Never,No,No,No,No,Never,0,Good,Unknown,High Risk
+47,Male,Married,Tertiary,Self-employed,Mwanza,Urban,2,Sometimes,Yes,No,No,No,Occasionally,9,Poor,Unknown,High Risk
+28,Male,Single,Tertiary,Employed,Dar es Salaam,Urban,2,Sometimes,Yes,No,No,No,Occasionally,1,Good,Negative,Low Risk
+35,Female,Married,Secondary,Self-employed,Mwanza,Rural,1,Sometimes,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+62,Male,Married,No Education,Employed,Mbeya,Rural,2,Never,Yes,No,No,No,Regularly,5,Good,Unknown,High Risk
+34,Female,Married,Secondary,Unemployed,Dodoma,Rural,0,Always,No,No,No,No,Occasionally,10,Good,Negative,Low Risk
+22,Male,Married,Primary,Self-employed,Zanzibar,Rural,0,Never,Yes,No,No,No,Occasionally,1,Good,Positive,High Risk
+21,Female,Married,Primary,Employed,Zanzibar,Rural,2,Sometimes,No,No,No,No,Never,3,Poor,Unknown,High Risk
+17,Female,Married,Primary,Employed,Arusha,Rural,1,Never,Yes,No,Yes,No,Never,1,Poor,Unknown,High Risk
+31,Male,Married,Secondary,Student,Tanga,Urban,4,Never,No,No,No,No,Occasionally,0,Good,Negative,High Risk
+47,Female,Married,Secondary,Self-employed,Dar es Salaam,Urban,4,Sometimes,No,No,No,No,Regularly,2,Good,Unknown,High Risk
+62,Male,Single,Primary,Employed,Zanzibar,Rural,2,Sometimes,No,No,No,No,Occasionally,3,Poor,Negative,Low Risk
+26,Female,Married,Secondary,Self-employed,Mbeya,Rural,3,Always,No,No,No,No,Occasionally,9,Moderate,Negative,Low Risk
+36,Male,Single,Tertiary,Unemployed,Dodoma,Rural,2,Never,No,Yes,No,No,Never,4,Good,Unknown,High Risk
+36,Male,Married,Primary,Unemployed,Tanga,Urban,1,Sometimes,No,No,No,No,Regularly,4,Moderate,Negative,Low Risk
+60,Female,Divorced,Secondary,Student,Mbeya,Urban,3,Sometimes,Yes,No,No,No,Regularly,6,Moderate,Unknown,Low Risk
+44,Male,Married,Tertiary,Self-employed,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Occasionally,9,Good,Negative,Low Risk
+52,Male,Married,Primary,Unemployed,Arusha,Rural,1,Never,No,No,No,No,Never,7,Moderate,Negative,Low Risk
+52,Female,Widowed,Primary,Self-employed,Zanzibar,Urban,3,Always,No,Yes,No,No,Occasionally,8,Moderate,Negative,High Risk
+59,Male,Divorced,Secondary,Student,Mbeya,Urban,2,Sometimes,Yes,Yes,No,No,Regularly,6,Good,Negative,Low Risk
+22,Male,Widowed,Secondary,Employed,Tanga,Rural,3,Sometimes,Yes,No,No,No,Occasionally,4,Poor,Negative,High Risk
+41,Female,Divorced,Secondary,Employed,Mwanza,Rural,1,Sometimes,No,No,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+41,Female,Single,Primary,Employed,Dodoma,Urban,2,Sometimes,Yes,No,No,No,Never,7,Good,Negative,Low Risk
+48,Male,Single,Tertiary,Self-employed,Tanga,Rural,1,Sometimes,Yes,No,No,No,Never,9,Good,Negative,Low Risk
+35,Male,Married,No Education,Self-employed,Mbeya,Urban,2,Sometimes,Yes,No,No,No,Never,8,Good,Negative,Low Risk
+44,Female,Single,No Education,Self-employed,Dodoma,Urban,3,Never,No,No,No,No,Regularly,9,Moderate,Unknown,High Risk
+47,Female,Married,Secondary,Student,Zanzibar,Rural,2,Always,Yes,Yes,No,No,Occasionally,7,Good,Negative,Low Risk
+42,Male,Married,Primary,Self-employed,Mwanza,Urban,1,Sometimes,No,Yes,Yes,No,Regularly,5,Moderate,Negative,High Risk
+61,Female,Married,Primary,Employed,Arusha,Rural,0,Always,Yes,No,No,No,Never,3,Good,Negative,Low Risk
+47,Male,Married,Primary,Unemployed,Tanga,Rural,1,Always,No,No,No,No,Regularly,8,Moderate,Negative,Low Risk
+19,Male,Married,Primary,Unemployed,Arusha,Rural,2,Always,No,No,No,No,Regularly,8,Poor,Negative,Low Risk
+62,Male,Married,No Education,Unemployed,Mwanza,Urban,4,Sometimes,Yes,No,No,No,Never,9,Moderate,Unknown,Low Risk
+33,Male,Divorced,Tertiary,Self-employed,Dodoma,Urban,1,Never,Yes,No,Yes,No,Regularly,9,Moderate,Unknown,High Risk
+18,Male,Married,Primary,Student,Zanzibar,Urban,2,Always,Yes,Yes,No,No,Never,8,Poor,Negative,Low Risk
+49,Female,Divorced,Secondary,Unemployed,Mbeya,Rural,3,Always,Yes,No,No,No,Never,9,Moderate,Unknown,Low Risk
+63,Female,Single,Secondary,Unemployed,Mwanza,Rural,2,Never,No,No,No,No,Never,2,Moderate,Unknown,High Risk
+31,Female,Widowed,Tertiary,Self-employed,Dar es Salaam,Rural,2,Always,Yes,No,No,No,Regularly,10,Moderate,Unknown,Low Risk
+58,Female,Married,No Education,Unemployed,Dodoma,Rural,3,Never,No,No,No,Yes,Regularly,2,Poor,Unknown,High Risk
+42,Male,Married,Tertiary,Employed,Arusha,Rural,1,Always,Yes,No,No,No,Never,10,Good,Unknown,Low Risk
+44,Male,Single,Secondary,Unemployed,Tanga,Rural,1,Never,Yes,No,No,No,Occasionally,5,Good,Negative,Low Risk
+43,Male,Married,Secondary,Employed,Mwanza,Urban,0,Sometimes,Yes,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+60,Male,Single,Secondary,Student,Arusha,Urban,4,Never,No,No,No,No,Regularly,5,Moderate,Negative,Low Risk
+20,Female,Single,Secondary,Employed,Dodoma,Rural,4,Never,Yes,Yes,Yes,No,Never,4,Poor,Unknown,High Risk
+49,Male,Married,Primary,Unemployed,Arusha,Urban,3,Sometimes,No,No,Yes,Yes,Occasionally,4,Good,Negative,High Risk
+55,Male,Married,Secondary,Unemployed,Mwanza,Urban,1,Always,Yes,No,No,No,Occasionally,1,Good,Negative,Low Risk
+51,Female,Married,Secondary,Student,Dodoma,Rural,1,Never,Yes,No,No,No,Never,6,Poor,Negative,Low Risk
+38,Female,Widowed,Secondary,Employed,Dar es Salaam,Rural,1,Sometimes,No,No,No,No,Occasionally,3,Good,Unknown,Low Risk
+43,Female,Married,Tertiary,Employed,Mwanza,Urban,0,Always,No,Yes,No,No,Occasionally,2,Good,Unknown,High Risk
+63,Female,Married,Primary,Employed,Mbeya,Rural,2,Always,Yes,Yes,No,No,Never,7,Moderate,Negative,Low Risk
+60,Male,Single,Tertiary,Employed,Morogoro,Rural,4,Never,No,No,No,No,Regularly,3,Poor,Negative,High Risk
+45,Male,Married,No Education,Employed,Zanzibar,Rural,4,Always,Yes,No,No,Yes,Never,10,Poor,Unknown,High Risk
+49,Female,Married,No Education,Self-employed,Mwanza,Urban,2,Sometimes,No,No,No,No,Regularly,3,Poor,Positive,High Risk
+47,Male,Widowed,No Education,Employed,Dodoma,Urban,1,Sometimes,No,Yes,No,No,Never,7,Good,Negative,Low Risk
+35,Male,Divorced,Primary,Employed,Tanga,Rural,1,Never,No,No,No,No,Never,0,Moderate,Negative,High Risk
+46,Male,Married,Secondary,Self-employed,Zanzibar,Rural,1,Never,No,No,No,No,Never,8,Good,Unknown,Low Risk
+37,Female,Single,No Education,Unemployed,Mwanza,Rural,3,Never,Yes,No,No,No,Regularly,6,Poor,Negative,High Risk
+47,Male,Divorced,No Education,Unemployed,Dar es Salaam,Rural,3,Always,No,No,No,No,Regularly,1,Moderate,Negative,Low Risk
+17,Female,Divorced,Tertiary,Unemployed,Tanga,Urban,1,Never,Yes,No,No,No,Never,10,Good,Unknown,Low Risk
+32,Male,Single,Secondary,Student,Dar es Salaam,Urban,1,Always,Yes,No,No,No,Never,5,Moderate,Negative,Low Risk
+39,Male,Single,Secondary,Employed,Mbeya,Rural,0,Sometimes,Yes,Yes,No,No,Occasionally,7,Moderate,Negative,Low Risk
+56,Male,Divorced,Tertiary,Student,Tanga,Urban,1,Sometimes,No,No,Yes,No,Occasionally,10,Moderate,Negative,High Risk
+45,Female,Single,Secondary,Self-employed,Arusha,Urban,1,Always,No,No,No,No,Regularly,4,Poor,Unknown,Low Risk
+17,Male,Widowed,No Education,Employed,Morogoro,Rural,1,Never,Yes,No,No,No,Never,5,Good,Negative,Low Risk
+54,Female,Married,Primary,Student,Tanga,Urban,1,Always,No,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+60,Female,Single,Secondary,Employed,Zanzibar,Urban,3,Sometimes,No,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+38,Female,Divorced,Primary,Employed,Tanga,Urban,2,Never,Yes,No,No,No,Regularly,5,Good,Unknown,High Risk
+64,Male,Married,Secondary,Self-employed,Dodoma,Urban,1,Never,Yes,No,Yes,No,Occasionally,8,Good,Unknown,Low Risk
+46,Male,Married,No Education,Self-employed,Morogoro,Urban,1,Always,No,No,No,No,Never,8,Moderate,Unknown,Low Risk
+61,Male,Single,Primary,Self-employed,Dodoma,Rural,1,Sometimes,Yes,No,No,No,Never,8,Good,Unknown,Low Risk
+36,Male,Single,Secondary,Employed,Arusha,Rural,1,Never,Yes,No,No,No,Occasionally,5,Poor,Unknown,Low Risk
+37,Female,Married,Secondary,Unemployed,Tanga,Urban,1,Sometimes,No,Yes,No,No,Occasionally,8,Good,Unknown,Low Risk
+16,Female,Married,Secondary,Self-employed,Dar es Salaam,Rural,2,Sometimes,No,No,No,No,Regularly,2,Good,Unknown,High Risk
+41,Female,Married,Secondary,Unemployed,Dar es Salaam,Urban,2,Always,No,No,No,No,Occasionally,4,Good,Negative,Low Risk
+56,Male,Divorced,No Education,Unemployed,Mwanza,Rural,3,Sometimes,No,No,No,No,Occasionally,1,Poor,Negative,High Risk
+16,Female,Married,No Education,Employed,Mbeya,Rural,1,Never,Yes,No,No,No,Occasionally,7,Moderate,Negative,Low Risk
+40,Male,Single,Tertiary,Employed,Zanzibar,Rural,3,Sometimes,Yes,No,No,No,Occasionally,10,Poor,Unknown,Low Risk
+31,Female,Married,Secondary,Student,Morogoro,Rural,1,Sometimes,No,No,No,No,Never,3,Poor,Unknown,High Risk
+54,Male,Widowed,No Education,Unemployed,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Never,5,Poor,Negative,Low Risk
+47,Male,Divorced,Secondary,Student,Tanga,Urban,2,Sometimes,No,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+23,Female,Married,Primary,Unemployed,Mbeya,Rural,2,Always,Yes,No,No,No,Never,4,Good,Negative,Low Risk
+57,Female,Single,Primary,Self-employed,Mwanza,Urban,4,Always,Yes,No,No,No,Never,0,Poor,Negative,Low Risk
+62,Female,Single,No Education,Employed,Mbeya,Urban,2,Sometimes,Yes,No,No,No,Never,10,Poor,Unknown,High Risk
+53,Female,Married,Secondary,Unemployed,Morogoro,Rural,4,Sometimes,No,No,No,Yes,Never,6,Poor,Negative,High Risk
+43,Male,Divorced,Secondary,Employed,Arusha,Rural,4,Sometimes,Yes,Yes,No,No,Never,9,Good,Negative,Low Risk
+56,Female,Married,Primary,Unemployed,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Occasionally,7,Moderate,Negative,Low Risk
+40,Female,Divorced,Tertiary,Unemployed,Arusha,Urban,2,Sometimes,Yes,No,No,No,Occasionally,0,Good,Negative,Low Risk
+49,Female,Divorced,Primary,Student,Tanga,Rural,2,Always,No,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+64,Male,Single,Primary,Self-employed,Mwanza,Urban,5,Never,Yes,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+39,Male,Married,Primary,Employed,Tanga,Urban,3,Sometimes,Yes,No,No,No,Regularly,3,Poor,Unknown,High Risk
+38,Female,Single,Primary,Employed,Tanga,Rural,1,Always,Yes,No,No,No,Never,5,Moderate,Negative,Low Risk
+27,Male,Single,No Education,Employed,Mbeya,Urban,3,Always,No,No,No,No,Occasionally,8,Poor,Negative,Low Risk
+21,Female,Divorced,Secondary,Unemployed,Arusha,Urban,1,Never,Yes,Yes,Yes,No,Never,4,Good,Unknown,High Risk
+50,Male,Married,Secondary,Self-employed,Tanga,Rural,1,Always,Yes,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+59,Male,Married,Secondary,Student,Arusha,Urban,1,Never,Yes,No,No,No,Regularly,4,Moderate,Negative,Low Risk
+34,Male,Single,Primary,Employed,Arusha,Urban,2,Always,No,No,No,Yes,Occasionally,1,Moderate,Negative,High Risk
+15,Male,Single,No Education,Unemployed,Mwanza,Urban,3,Never,No,No,No,No,Occasionally,3,Poor,Positive,High Risk
+22,Female,Single,Primary,Unemployed,Dodoma,Rural,1,Never,Yes,Yes,No,No,Occasionally,1,Good,Unknown,High Risk
+60,Female,Single,Primary,Self-employed,Mbeya,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+30,Female,Married,Secondary,Unemployed,Tanga,Rural,1,Always,No,No,No,No,Never,6,Moderate,Negative,Low Risk
+28,Male,Single,Primary,Self-employed,Arusha,Rural,2,Always,Yes,No,Yes,No,Occasionally,2,Good,Unknown,Low Risk
+26,Female,Married,Secondary,Self-employed,Zanzibar,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Poor,Positive,High Risk
+37,Female,Single,Tertiary,Employed,Dodoma,Rural,1,Sometimes,No,No,No,No,Never,0,Moderate,Negative,Low Risk
+29,Female,Single,Primary,Self-employed,Tanga,Urban,1,Always,No,No,No,No,Never,0,Moderate,Positive,Low Risk
+42,Male,Single,Secondary,Employed,Zanzibar,Urban,1,Always,Yes,No,No,No,Regularly,8,Poor,Unknown,Low Risk
+48,Male,Married,Secondary,Self-employed,Mbeya,Rural,1,Sometimes,Yes,No,Yes,No,Never,5,Good,Negative,Low Risk
+16,Male,Married,Secondary,Unemployed,Mbeya,Urban,2,Sometimes,Yes,No,No,No,Never,4,Poor,Unknown,High Risk
+46,Female,Married,Secondary,Unemployed,Arusha,Rural,1,Always,No,No,Yes,No,Occasionally,5,Good,Negative,Low Risk
+37,Female,Married,Primary,Student,Arusha,Rural,2,Always,Yes,Yes,No,No,Never,5,Good,Unknown,Low Risk
+36,Female,Married,Primary,Student,Morogoro,Rural,1,Never,Yes,No,No,No,Occasionally,0,Poor,Negative,Low Risk
+39,Male,Single,Primary,Self-employed,Morogoro,Urban,1,Sometimes,Yes,Yes,No,No,Occasionally,4,Poor,Negative,High Risk
+36,Male,Single,Primary,Unemployed,Tanga,Urban,1,Never,Yes,Yes,No,No,Regularly,8,Moderate,Unknown,High Risk
+36,Female,Divorced,Secondary,Self-employed,Mwanza,Urban,2,Sometimes,No,No,No,No,Never,3,Moderate,Unknown,High Risk
+63,Male,Married,No Education,Unemployed,Dodoma,Rural,4,Always,Yes,No,No,No,Occasionally,2,Poor,Unknown,High Risk
+56,Male,Single,Tertiary,Student,Tanga,Rural,4,Sometimes,Yes,Yes,No,No,Regularly,0,Good,Unknown,High Risk
+20,Male,Widowed,Secondary,Unemployed,Dodoma,Rural,2,Sometimes,No,No,No,No,Never,1,Good,Negative,Low Risk
+29,Male,Divorced,Primary,Student,Arusha,Urban,1,Never,Yes,No,No,No,Never,2,Moderate,Negative,Low Risk
+57,Female,Single,Primary,Student,Mbeya,Urban,3,Sometimes,No,No,No,Yes,Regularly,3,Good,Negative,High Risk
+51,Male,Married,Tertiary,Self-employed,Arusha,Urban,2,Always,Yes,No,No,No,Never,6,Good,Unknown,Low Risk
+47,Male,Married,Secondary,Employed,Mbeya,Rural,1,Never,Yes,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+22,Male,Married,Secondary,Employed,Morogoro,Rural,3,Sometimes,No,No,No,No,Never,10,Good,Unknown,Low Risk
+58,Male,Married,Primary,Student,Tanga,Urban,1,Never,No,Yes,No,Yes,Never,7,Poor,Negative,High Risk
+58,Female,Single,Primary,Employed,Morogoro,Rural,1,Never,Yes,Yes,No,No,Never,8,Moderate,Unknown,Low Risk
+19,Female,Married,No Education,Student,Mbeya,Urban,1,Always,No,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+53,Male,Married,Primary,Unemployed,Arusha,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+18,Male,Divorced,Secondary,Unemployed,Morogoro,Rural,2,Sometimes,No,No,No,No,Never,3,Moderate,Unknown,High Risk
+20,Male,Married,Secondary,Student,Dar es Salaam,Urban,1,Sometimes,Yes,No,No,No,Regularly,1,Good,Negative,Low Risk
+59,Male,Single,Secondary,Self-employed,Dodoma,Urban,1,Sometimes,Yes,No,No,Yes,Occasionally,8,Good,Unknown,Low Risk
+46,Male,Married,Tertiary,Unemployed,Zanzibar,Rural,1,Never,No,No,No,No,Regularly,8,Poor,Unknown,Low Risk
+44,Male,Single,Secondary,Unemployed,Mbeya,Rural,2,Never,No,No,No,No,Regularly,3,Good,Negative,High Risk
+61,Female,Married,Primary,Unemployed,Mbeya,Rural,2,Always,Yes,No,No,No,Regularly,2,Good,Unknown,Low Risk
+49,Male,Married,Primary,Self-employed,Dar es Salaam,Rural,1,Always,No,No,No,No,Regularly,9,Poor,Unknown,Low Risk
+54,Female,Single,Tertiary,Employed,Tanga,Urban,0,Sometimes,Yes,No,Yes,No,Occasionally,10,Poor,Unknown,Low Risk
+30,Female,Married,No Education,Student,Tanga,Rural,1,Always,Yes,Yes,No,No,Regularly,5,Moderate,Negative,Low Risk
+27,Male,Single,Tertiary,Student,Tanga,Rural,4,Never,Yes,No,No,No,Never,2,Good,Negative,High Risk
+64,Female,Single,Secondary,Unemployed,Zanzibar,Rural,1,Sometimes,No,No,No,No,Never,0,Moderate,Unknown,Low Risk
+56,Female,Married,No Education,Self-employed,Mwanza,Urban,1,Sometimes,Yes,No,No,No,Regularly,3,Poor,Unknown,High Risk
+44,Female,Married,Secondary,Unemployed,Dar es Salaam,Urban,0,Always,No,No,No,No,Occasionally,0,Good,Negative,Low Risk
+33,Female,Widowed,Tertiary,Unemployed,Zanzibar,Urban,2,Never,No,No,No,No,Regularly,1,Good,Negative,High Risk
+31,Female,Married,Secondary,Student,Morogoro,Urban,2,Always,No,No,Yes,No,Regularly,2,Poor,Negative,High Risk
+33,Female,Single,Tertiary,Employed,Dar es Salaam,Urban,1,Never,No,No,No,No,Never,7,Poor,Positive,High Risk
+42,Male,Married,Tertiary,Employed,Mbeya,Urban,1,Sometimes,No,No,No,No,Regularly,9,Poor,Unknown,Low Risk
+40,Female,Single,Primary,Unemployed,Dodoma,Urban,1,Never,No,No,No,No,Never,3,Good,Unknown,Low Risk
+51,Female,Widowed,Primary,Unemployed,Dar es Salaam,Urban,3,Sometimes,Yes,No,Yes,Yes,Never,3,Moderate,Negative,High Risk
+40,Female,Married,Tertiary,Unemployed,Mwanza,Rural,3,Always,Yes,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+37,Male,Divorced,Secondary,Self-employed,Arusha,Urban,2,Never,Yes,No,No,No,Never,8,Good,Negative,Low Risk
+23,Female,Single,No Education,Self-employed,Morogoro,Urban,2,Always,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+26,Male,Married,No Education,Self-employed,Zanzibar,Urban,1,Sometimes,No,No,Yes,No,Occasionally,1,Good,Negative,High Risk
+15,Female,Married,Secondary,Employed,Morogoro,Urban,2,Always,Yes,No,No,No,Never,2,Moderate,Negative,Low Risk
+15,Male,Divorced,Tertiary,Unemployed,Morogoro,Rural,2,Never,Yes,No,No,No,Regularly,3,Moderate,Unknown,High Risk
+61,Male,Single,Secondary,Employed,Dar es Salaam,Urban,1,Never,No,No,No,No,Occasionally,3,Poor,Negative,Low Risk
+48,Female,Single,Secondary,Employed,Dar es Salaam,Rural,3,Sometimes,No,No,No,No,Never,9,Poor,Negative,Low Risk
+46,Female,Widowed,No Education,Unemployed,Mwanza,Rural,1,Sometimes,Yes,No,No,No,Never,7,Poor,Negative,Low Risk
+62,Male,Married,Primary,Employed,Dodoma,Rural,1,Never,No,No,No,No,Regularly,9,Poor,Negative,Low Risk
+39,Female,Married,Tertiary,Employed,Dar es Salaam,Rural,2,Always,Yes,No,No,No,Regularly,9,Good,Negative,Low Risk
+54,Male,Single,Primary,Employed,Dar es Salaam,Rural,2,Never,Yes,No,No,No,Never,5,Good,Negative,Low Risk
+59,Male,Widowed,Primary,Student,Dodoma,Rural,2,Always,No,No,No,No,Never,2,Moderate,Unknown,Low Risk
+15,Male,Single,No Education,Student,Mwanza,Urban,1,Never,No,No,No,No,Regularly,10,Good,Unknown,High Risk
+30,Male,Married,Secondary,Self-employed,Zanzibar,Urban,3,Never,Yes,No,Yes,No,Occasionally,8,Poor,Negative,High Risk
+53,Male,Divorced,Tertiary,Student,Morogoro,Rural,2,Never,No,No,No,No,Never,9,Good,Unknown,Low Risk
+19,Female,Single,Primary,Self-employed,Zanzibar,Urban,1,Sometimes,Yes,No,No,No,Occasionally,7,Good,Positive,Low Risk
+36,Male,Married,Primary,Unemployed,Dar es Salaam,Urban,5,Sometimes,Yes,No,No,No,Occasionally,8,Moderate,Negative,Low Risk
+43,Male,Single,Secondary,Employed,Dodoma,Rural,2,Sometimes,Yes,Yes,No,No,Regularly,4,Moderate,Negative,High Risk
+17,Female,Single,Tertiary,Self-employed,Dar es Salaam,Rural,1,Always,No,Yes,No,No,Never,2,Moderate,Negative,Low Risk
+26,Male,Divorced,No Education,Self-employed,Tanga,Urban,3,Sometimes,No,No,Yes,No,Occasionally,3,Moderate,Unknown,High Risk
+40,Female,Divorced,Primary,Self-employed,Arusha,Rural,1,Sometimes,Yes,No,No,No,Never,4,Good,Negative,Low Risk
+30,Female,Married,Primary,Self-employed,Zanzibar,Urban,0,Never,Yes,No,No,No,Regularly,8,Good,Unknown,Low Risk
+51,Female,Married,Tertiary,Unemployed,Tanga,Rural,1,Sometimes,No,Yes,No,Yes,Regularly,8,Poor,Negative,High Risk
+36,Male,Single,Primary,Self-employed,Mbeya,Urban,5,Always,Yes,No,No,No,Occasionally,2,Good,Positive,High Risk
+43,Male,Single,No Education,Student,Arusha,Urban,1,Sometimes,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+28,Male,Single,Secondary,Unemployed,Dar es Salaam,Rural,2,Sometimes,No,Yes,No,No,Occasionally,5,Moderate,Negative,High Risk
+42,Female,Single,Secondary,Self-employed,Mwanza,Rural,1,Always,Yes,No,No,No,Regularly,3,Good,Negative,Low Risk
+19,Male,Single,No Education,Unemployed,Zanzibar,Rural,2,Always,No,No,No,No,Never,4,Moderate,Negative,Low Risk
+61,Female,Married,Tertiary,Self-employed,Mbeya,Urban,2,Never,Yes,No,No,No,Regularly,9,Moderate,Positive,High Risk
+63,Male,Single,Primary,Self-employed,Arusha,Urban,2,Sometimes,No,No,No,No,Never,1,Poor,Unknown,High Risk
+44,Female,Single,Secondary,Employed,Zanzibar,Rural,1,Sometimes,Yes,No,No,No,Never,10,Moderate,Negative,Low Risk
+60,Male,Married,Primary,Self-employed,Dodoma,Urban,2,Sometimes,No,No,No,No,Occasionally,6,Good,Positive,High Risk
+19,Male,Divorced,Secondary,Employed,Mwanza,Urban,5,Never,Yes,No,No,Yes,Regularly,3,Moderate,Unknown,High Risk
+26,Male,Single,Primary,Self-employed,Arusha,Urban,2,Always,No,No,No,No,Regularly,1,Good,Negative,Low Risk
+30,Female,Widowed,Tertiary,Unemployed,Dodoma,Rural,1,Never,No,No,No,No,Occasionally,10,Good,Negative,Low Risk
+40,Female,Divorced,Secondary,Self-employed,Tanga,Rural,4,Always,Yes,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+40,Male,Single,Secondary,Employed,Dar es Salaam,Rural,0,Never,Yes,No,No,No,Regularly,10,Good,Negative,Low Risk
+62,Male,Divorced,Secondary,Self-employed,Dodoma,Rural,2,Sometimes,No,No,No,Yes,Never,1,Moderate,Positive,High Risk
+35,Female,Married,Secondary,Employed,Arusha,Urban,3,Sometimes,No,No,No,No,Regularly,9,Moderate,Negative,Low Risk
+53,Female,Married,No Education,Student,Morogoro,Urban,1,Sometimes,Yes,No,Yes,No,Occasionally,1,Poor,Unknown,High Risk
+50,Female,Married,Primary,Student,Arusha,Rural,1,Sometimes,Yes,No,No,No,Occasionally,6,Poor,Negative,Low Risk
+47,Male,Married,Tertiary,Student,Morogoro,Urban,1,Always,No,No,No,No,Never,0,Good,Negative,Low Risk
+44,Female,Married,No Education,Self-employed,Tanga,Rural,2,Never,Yes,No,No,No,Occasionally,6,Moderate,Negative,High Risk
+51,Male,Married,Secondary,Self-employed,Dar es Salaam,Urban,2,Always,No,Yes,No,No,Never,9,Good,Negative,Low Risk
+37,Female,Married,Tertiary,Employed,Morogoro,Rural,1,Never,No,No,No,No,Never,4,Moderate,Unknown,High Risk
+24,Male,Married,No Education,Unemployed,Morogoro,Rural,1,Never,No,No,Yes,No,Never,0,Good,Negative,Low Risk
+19,Female,Married,Secondary,Unemployed,Dodoma,Rural,1,Sometimes,Yes,Yes,No,No,Never,5,Good,Positive,Low Risk
+50,Female,Married,Primary,Self-employed,Dodoma,Urban,1,Never,Yes,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+48,Female,Single,Secondary,Student,Dar es Salaam,Urban,1,Sometimes,No,No,No,No,Regularly,0,Moderate,Negative,Low Risk
+45,Female,Single,No Education,Employed,Dodoma,Urban,3,Always,No,No,No,No,Never,8,Moderate,Unknown,Low Risk
+24,Female,Divorced,No Education,Student,Zanzibar,Urban,0,Never,No,No,No,No,Occasionally,6,Moderate,Positive,High Risk
+33,Male,Single,Secondary,Self-employed,Dar es Salaam,Urban,3,Sometimes,Yes,No,No,No,Occasionally,0,Moderate,Negative,High Risk
+46,Female,Single,Secondary,Self-employed,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+15,Female,Single,Secondary,Employed,Morogoro,Urban,1,Sometimes,Yes,Yes,No,No,Regularly,4,Moderate,Negative,High Risk
+19,Female,Single,Secondary,Employed,Arusha,Rural,2,Sometimes,No,Yes,No,No,Occasionally,3,Good,Negative,High Risk
+59,Male,Widowed,No Education,Unemployed,Mwanza,Rural,2,Never,Yes,Yes,No,No,Regularly,1,Moderate,Negative,High Risk
+18,Female,Married,Secondary,Self-employed,Morogoro,Urban,1,Always,Yes,Yes,No,No,Occasionally,0,Moderate,Unknown,Low Risk
+30,Male,Widowed,Primary,Employed,Zanzibar,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,3,Good,Negative,Low Risk
+38,Female,Married,Tertiary,Unemployed,Morogoro,Urban,1,Sometimes,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+30,Female,Married,Secondary,Student,Morogoro,Urban,1,Sometimes,No,No,No,No,Regularly,10,Good,Negative,Low Risk
+16,Male,Single,Secondary,Self-employed,Morogoro,Rural,0,Sometimes,Yes,No,No,No,Regularly,3,Moderate,Unknown,Low Risk
+63,Female,Married,Tertiary,Student,Tanga,Rural,1,Always,Yes,No,Yes,No,Occasionally,8,Poor,Negative,Low Risk
+42,Male,Single,No Education,Unemployed,Zanzibar,Urban,1,Always,Yes,No,Yes,No,Regularly,7,Good,Unknown,Low Risk
+46,Male,Divorced,Secondary,Unemployed,Mbeya,Urban,1,Always,Yes,No,No,No,Never,7,Moderate,Negative,Low Risk
+41,Female,Divorced,Primary,Self-employed,Mbeya,Rural,1,Never,Yes,No,No,No,Regularly,4,Poor,Negative,Low Risk
+34,Male,Single,Tertiary,Unemployed,Mbeya,Urban,1,Always,Yes,No,Yes,No,Never,0,Good,Unknown,Low Risk
+38,Female,Widowed,Primary,Employed,Dar es Salaam,Rural,1,Never,No,No,No,No,Never,8,Good,Negative,Low Risk
+26,Female,Divorced,Secondary,Employed,Dodoma,Rural,5,Never,Yes,No,No,No,Never,1,Good,Negative,High Risk
+64,Male,Married,Tertiary,Unemployed,Zanzibar,Rural,0,Never,Yes,No,Yes,No,Regularly,5,Moderate,Positive,High Risk
+49,Male,Single,No Education,Employed,Mwanza,Urban,2,Never,Yes,No,No,No,Regularly,9,Moderate,Negative,High Risk
+47,Male,Married,Primary,Unemployed,Tanga,Urban,1,Always,No,No,No,No,Regularly,4,Moderate,Negative,Low Risk
+47,Male,Married,Secondary,Employed,Mwanza,Urban,4,Always,No,No,No,No,Regularly,9,Poor,Positive,High Risk
+57,Female,Single,Primary,Employed,Mwanza,Urban,1,Sometimes,No,Yes,No,No,Occasionally,7,Moderate,Negative,Low Risk
+51,Female,Single,Primary,Self-employed,Mwanza,Urban,4,Always,No,No,No,No,Regularly,10,Good,Negative,Low Risk
+26,Male,Divorced,Primary,Unemployed,Tanga,Urban,2,Never,No,No,No,No,Regularly,2,Moderate,Negative,High Risk
+17,Female,Single,No Education,Self-employed,Mbeya,Rural,0,Sometimes,Yes,No,No,No,Occasionally,5,Good,Negative,Low Risk
+15,Female,Married,Tertiary,Employed,Mwanza,Rural,3,Never,No,Yes,No,No,Never,5,Moderate,Negative,High Risk
+47,Female,Widowed,Secondary,Employed,Tanga,Urban,2,Always,Yes,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+54,Female,Divorced,No Education,Self-employed,Tanga,Urban,1,Never,Yes,No,No,No,Regularly,2,Moderate,Negative,Low Risk
+24,Male,Single,Primary,Unemployed,Dodoma,Urban,3,Always,No,No,No,Yes,Regularly,6,Good,Unknown,High Risk
+57,Male,Divorced,Primary,Unemployed,Tanga,Urban,4,Sometimes,Yes,Yes,No,No,Regularly,10,Poor,Unknown,High Risk
+58,Female,Single,Primary,Unemployed,Mbeya,Rural,1,Sometimes,No,No,No,No,Regularly,3,Good,Unknown,Low Risk
+43,Male,Single,Primary,Student,Mwanza,Rural,1,Never,Yes,No,No,No,Regularly,4,Moderate,Unknown,Low Risk
+27,Male,Married,Primary,Unemployed,Tanga,Rural,3,Sometimes,No,No,No,No,Regularly,8,Good,Unknown,Low Risk
+26,Male,Married,Primary,Unemployed,Dar es Salaam,Rural,2,Never,No,No,No,No,Occasionally,5,Poor,Negative,High Risk
+45,Female,Married,Secondary,Self-employed,Tanga,Rural,3,Never,No,No,No,No,Never,9,Poor,Negative,High Risk
+60,Female,Married,Primary,Unemployed,Arusha,Rural,2,Never,No,No,No,Yes,Occasionally,3,Good,Negative,High Risk
+16,Female,Single,Secondary,Unemployed,Arusha,Urban,1,Always,No,Yes,No,No,Occasionally,7,Poor,Unknown,High Risk
+64,Male,Single,Secondary,Unemployed,Arusha,Rural,4,Never,No,No,No,No,Regularly,8,Moderate,Unknown,High Risk
+49,Female,Married,Secondary,Self-employed,Tanga,Rural,1,Never,Yes,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+37,Female,Divorced,Secondary,Employed,Mbeya,Urban,1,Always,Yes,No,No,No,Never,4,Moderate,Unknown,Low Risk
+31,Male,Married,Secondary,Employed,Mwanza,Urban,2,Always,No,No,No,No,Never,1,Good,Unknown,Low Risk
+40,Female,Single,Tertiary,Unemployed,Zanzibar,Urban,2,Always,No,No,No,No,Occasionally,5,Poor,Negative,Low Risk
+22,Female,Married,Secondary,Self-employed,Zanzibar,Rural,0,Always,No,No,No,No,Occasionally,10,Good,Unknown,Low Risk
+43,Male,Single,Secondary,Employed,Zanzibar,Urban,3,Sometimes,No,No,No,No,Never,7,Good,Negative,Low Risk
+40,Male,Single,Secondary,Student,Mbeya,Urban,1,Never,No,No,No,No,Never,4,Poor,Negative,Low Risk
+24,Male,Divorced,Secondary,Unemployed,Dodoma,Urban,1,Sometimes,Yes,No,No,No,Occasionally,0,Moderate,Positive,High Risk
+40,Female,Single,Primary,Student,Morogoro,Rural,3,Sometimes,Yes,No,No,No,Never,7,Good,Negative,Low Risk
+48,Female,Single,Primary,Student,Dar es Salaam,Urban,1,Never,Yes,No,No,No,Never,8,Good,Unknown,Low Risk
+55,Female,Married,Primary,Unemployed,Dar es Salaam,Rural,0,Always,Yes,No,No,No,Occasionally,0,Moderate,Negative,Low Risk
+21,Male,Married,Tertiary,Employed,Arusha,Rural,1,Never,No,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+18,Male,Married,Secondary,Employed,Arusha,Rural,4,Sometimes,No,No,No,No,Occasionally,9,Poor,Negative,Low Risk
+64,Female,Single,Tertiary,Employed,Tanga,Rural,1,Sometimes,No,No,No,Yes,Never,1,Moderate,Negative,Low Risk
+59,Female,Single,Secondary,Self-employed,Zanzibar,Urban,1,Sometimes,Yes,No,No,No,Regularly,3,Good,Unknown,Low Risk
+25,Male,Single,Primary,Employed,Tanga,Urban,2,Sometimes,Yes,Yes,No,No,Occasionally,1,Moderate,Unknown,High Risk
+43,Male,Single,No Education,Unemployed,Morogoro,Rural,1,Always,Yes,Yes,No,No,Never,1,Moderate,Negative,Low Risk
+50,Male,Married,Secondary,Unemployed,Zanzibar,Urban,0,Never,Yes,No,No,No,Never,9,Moderate,Negative,Low Risk
+39,Male,Divorced,Secondary,Student,Arusha,Urban,2,Always,Yes,No,No,No,Never,2,Poor,Negative,Low Risk
+35,Female,Married,Tertiary,Employed,Mwanza,Rural,1,Never,Yes,Yes,No,No,Never,7,Poor,Unknown,Low Risk
+50,Male,Divorced,Primary,Employed,Dodoma,Urban,5,Sometimes,Yes,No,No,Yes,Never,3,Moderate,Unknown,High Risk
+24,Female,Married,Secondary,Employed,Tanga,Rural,1,Always,Yes,Yes,Yes,No,Occasionally,6,Moderate,Negative,Low Risk
+51,Female,Married,Secondary,Student,Dodoma,Urban,1,Sometimes,No,No,No,No,Occasionally,9,Good,Negative,Low Risk
+23,Female,Married,Secondary,Self-employed,Dodoma,Rural,1,Always,Yes,No,No,No,Occasionally,2,Moderate,Unknown,Low Risk
+38,Male,Married,Secondary,Employed,Dodoma,Rural,1,Never,Yes,Yes,Yes,No,Regularly,9,Moderate,Unknown,High Risk
+49,Male,Married,Secondary,Employed,Arusha,Rural,2,Never,Yes,No,No,Yes,Never,10,Moderate,Unknown,High Risk
+63,Male,Single,Primary,Employed,Dar es Salaam,Urban,1,Never,Yes,Yes,No,No,Regularly,2,Good,Negative,High Risk
+49,Male,Married,Secondary,Employed,Arusha,Rural,1,Always,No,No,No,No,Never,1,Poor,Unknown,Low Risk
+62,Female,Widowed,Secondary,Student,Dodoma,Rural,2,Sometimes,No,No,No,No,Occasionally,5,Good,Unknown,Low Risk
+50,Male,Single,Tertiary,Self-employed,Arusha,Rural,2,Sometimes,Yes,Yes,No,No,Never,5,Moderate,Unknown,Low Risk
+32,Male,Single,Secondary,Unemployed,Dodoma,Urban,1,Never,No,No,No,No,Regularly,0,Poor,Negative,High Risk
+63,Female,Married,Primary,Student,Mbeya,Rural,1,Always,Yes,No,No,No,Occasionally,6,Moderate,Unknown,Low Risk
+53,Male,Divorced,Primary,Employed,Zanzibar,Rural,1,Sometimes,No,Yes,No,No,Never,3,Moderate,Unknown,Low Risk
+46,Female,Married,Tertiary,Self-employed,Dar es Salaam,Urban,0,Sometimes,Yes,No,Yes,No,Occasionally,10,Moderate,Unknown,Low Risk
+38,Female,Married,Secondary,Student,Mbeya,Rural,1,Always,Yes,No,No,No,Never,2,Good,Negative,Low Risk
+37,Female,Single,Tertiary,Unemployed,Mwanza,Urban,2,Sometimes,No,No,No,No,Regularly,7,Poor,Negative,Low Risk
+46,Female,Married,Primary,Self-employed,Arusha,Rural,3,Sometimes,No,No,No,No,Occasionally,1,Good,Negative,High Risk
+51,Female,Single,Secondary,Employed,Mwanza,Rural,1,Never,No,No,No,No,Never,8,Moderate,Negative,Low Risk
+26,Female,Divorced,Secondary,Employed,Tanga,Rural,1,Never,Yes,No,No,No,Occasionally,7,Good,Negative,Low Risk
+63,Female,Married,Tertiary,Employed,Arusha,Rural,1,Sometimes,Yes,No,No,Yes,Never,7,Poor,Negative,Low Risk
+27,Female,Single,Primary,Unemployed,Morogoro,Rural,1,Sometimes,No,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+37,Male,Single,Secondary,Self-employed,Morogoro,Urban,0,Always,Yes,No,No,No,Never,3,Moderate,Unknown,Low Risk
+39,Male,Single,Secondary,Student,Zanzibar,Urban,4,Never,Yes,No,No,No,Occasionally,1,Moderate,Negative,Low Risk
+49,Male,Married,No Education,Self-employed,Mbeya,Urban,2,Never,Yes,No,No,No,Regularly,1,Poor,Negative,High Risk
+55,Male,Single,Secondary,Student,Zanzibar,Rural,5,Never,Yes,No,No,No,Never,3,Good,Unknown,Low Risk
+44,Female,Married,Secondary,Self-employed,Tanga,Rural,3,Never,Yes,No,No,Yes,Regularly,5,Moderate,Negative,High Risk
+31,Male,Married,Tertiary,Employed,Dodoma,Urban,1,Sometimes,Yes,No,No,No,Occasionally,4,Moderate,Negative,Low Risk
+63,Female,Single,Primary,Unemployed,Zanzibar,Urban,2,Never,Yes,No,No,No,Never,0,Good,Negative,Low Risk
+34,Male,Single,Primary,Employed,Zanzibar,Urban,1,Sometimes,No,No,No,No,Occasionally,9,Good,Negative,Low Risk
+62,Male,Single,No Education,Self-employed,Morogoro,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,0,Good,Negative,High Risk
+39,Male,Divorced,Primary,Student,Dodoma,Urban,4,Never,Yes,No,Yes,No,Occasionally,5,Good,Negative,Low Risk
+36,Female,Single,Primary,Employed,Morogoro,Urban,1,Always,No,No,No,No,Never,2,Moderate,Unknown,Low Risk
+27,Male,Married,Secondary,Self-employed,Arusha,Rural,3,Always,No,No,No,No,Never,2,Good,Negative,Low Risk
+33,Female,Divorced,Primary,Self-employed,Dodoma,Rural,1,Sometimes,Yes,No,Yes,No,Regularly,6,Moderate,Positive,Low Risk
+63,Female,Married,Tertiary,Unemployed,Mbeya,Rural,3,Sometimes,No,No,No,No,Occasionally,0,Good,Unknown,High Risk
+50,Male,Divorced,Tertiary,Unemployed,Zanzibar,Rural,4,Never,Yes,No,No,No,Occasionally,0,Good,Negative,High Risk
+26,Male,Married,Secondary,Unemployed,Morogoro,Urban,2,Always,No,No,No,No,Never,9,Poor,Negative,Low Risk
+55,Male,Widowed,Tertiary,Employed,Dodoma,Rural,2,Always,Yes,No,No,No,Regularly,2,Moderate,Unknown,Low Risk
+33,Female,Single,Secondary,Employed,Tanga,Rural,1,Always,Yes,No,No,No,Regularly,7,Good,Negative,Low Risk
+26,Male,Single,Secondary,Employed,Tanga,Rural,3,Always,No,Yes,No,No,Never,0,Moderate,Unknown,High Risk
+23,Female,Married,Primary,Unemployed,Zanzibar,Urban,4,Always,No,No,Yes,No,Never,9,Good,Negative,Low Risk
+21,Female,Widowed,Primary,Employed,Mbeya,Urban,3,Sometimes,Yes,No,No,No,Regularly,3,Good,Unknown,High Risk
+42,Male,Divorced,Secondary,Student,Mwanza,Urban,2,Sometimes,Yes,No,Yes,Yes,Regularly,8,Good,Negative,High Risk
+28,Male,Single,Tertiary,Unemployed,Morogoro,Urban,2,Never,Yes,No,No,No,Occasionally,3,Poor,Negative,High Risk
+45,Female,Single,Primary,Self-employed,Mbeya,Rural,3,Never,No,No,No,No,Regularly,9,Moderate,Unknown,High Risk
+33,Female,Widowed,Tertiary,Unemployed,Dar es Salaam,Urban,2,Sometimes,Yes,No,No,No,Occasionally,7,Poor,Unknown,High Risk
+61,Female,Single,Secondary,Unemployed,Dar es Salaam,Rural,3,Always,Yes,No,No,No,Never,6,Poor,Unknown,Low Risk
+30,Male,Divorced,No Education,Student,Dar es Salaam,Urban,2,Always,Yes,No,No,No,Occasionally,2,Poor,Unknown,High Risk
+19,Female,Divorced,Tertiary,Employed,Zanzibar,Urban,1,Never,No,No,No,No,Occasionally,6,Moderate,Unknown,Low Risk
+49,Male,Married,Secondary,Employed,Tanga,Rural,1,Sometimes,No,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+26,Female,Married,Primary,Self-employed,Arusha,Urban,1,Never,No,No,No,No,Never,9,Good,Positive,Low Risk
+39,Female,Married,Secondary,Employed,Morogoro,Urban,1,Never,Yes,No,No,No,Occasionally,2,Good,Positive,High Risk
+35,Male,Single,No Education,Employed,Tanga,Rural,1,Never,No,No,No,No,Regularly,1,Moderate,Unknown,High Risk
+50,Female,Divorced,Secondary,Unemployed,Arusha,Rural,2,Never,No,No,No,Yes,Never,8,Moderate,Unknown,High Risk
+37,Male,Married,Primary,Employed,Arusha,Urban,1,Sometimes,No,No,No,No,Occasionally,0,Poor,Unknown,High Risk
+30,Male,Divorced,Primary,Unemployed,Tanga,Rural,1,Sometimes,Yes,No,Yes,No,Regularly,6,Moderate,Unknown,Low Risk
+53,Female,Single,Tertiary,Employed,Morogoro,Rural,2,Never,Yes,No,No,No,Occasionally,3,Moderate,Unknown,High Risk
+59,Male,Widowed,Secondary,Student,Zanzibar,Rural,4,Sometimes,No,No,No,No,Occasionally,1,Moderate,Negative,Low Risk
+56,Male,Married,Primary,Self-employed,Mbeya,Urban,2,Always,Yes,No,No,No,Regularly,1,Good,Negative,Low Risk
+53,Female,Single,Primary,Self-employed,Arusha,Urban,5,Sometimes,Yes,No,No,No,Never,7,Moderate,Unknown,Low Risk
+28,Male,Single,Tertiary,Self-employed,Mwanza,Urban,2,Sometimes,No,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+45,Male,Married,Primary,Student,Tanga,Urban,1,Never,No,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+19,Male,Married,Primary,Employed,Tanga,Urban,2,Sometimes,No,Yes,No,No,Occasionally,4,Moderate,Negative,High Risk
+49,Female,Divorced,No Education,Student,Dar es Salaam,Rural,2,Sometimes,No,No,No,No,Occasionally,9,Good,Negative,Low Risk
+37,Male,Single,No Education,Self-employed,Mbeya,Rural,1,Never,Yes,Yes,No,No,Regularly,7,Moderate,Unknown,High Risk
+43,Female,Single,Secondary,Self-employed,Dar es Salaam,Urban,0,Never,Yes,Yes,No,No,Never,1,Moderate,Negative,High Risk
+57,Female,Married,Secondary,Unemployed,Tanga,Rural,2,Sometimes,Yes,No,No,No,Never,1,Moderate,Unknown,High Risk
+25,Male,Married,Primary,Employed,Tanga,Urban,0,Always,Yes,No,No,Yes,Never,4,Moderate,Negative,Low Risk
+32,Male,Married,Secondary,Unemployed,Arusha,Rural,2,Sometimes,Yes,No,No,No,Never,0,Good,Unknown,Low Risk
+61,Male,Widowed,Primary,Self-employed,Mbeya,Rural,1,Sometimes,Yes,Yes,Yes,No,Occasionally,5,Good,Unknown,High Risk
+26,Female,Widowed,Tertiary,Employed,Dodoma,Rural,2,Always,No,Yes,No,No,Regularly,3,Good,Unknown,High Risk
+23,Male,Widowed,Tertiary,Self-employed,Mwanza,Rural,2,Always,No,No,Yes,No,Regularly,5,Moderate,Unknown,Low Risk
+24,Male,Divorced,Primary,Employed,Morogoro,Urban,0,Never,No,No,Yes,No,Never,6,Moderate,Negative,Low Risk
+58,Male,Married,Tertiary,Employed,Arusha,Rural,1,Sometimes,No,No,Yes,No,Occasionally,2,Poor,Positive,High Risk
+31,Male,Married,Secondary,Employed,Tanga,Rural,2,Sometimes,No,No,No,No,Occasionally,10,Good,Positive,High Risk
+52,Male,Married,Primary,Employed,Morogoro,Rural,3,Always,No,No,No,No,Never,7,Good,Unknown,Low Risk
+21,Female,Divorced,Primary,Unemployed,Arusha,Rural,3,Sometimes,No,No,No,No,Regularly,6,Moderate,Unknown,Low Risk
+60,Female,Single,Primary,Employed,Mwanza,Rural,1,Never,No,No,No,No,Regularly,0,Moderate,Negative,Low Risk
+27,Male,Married,Secondary,Student,Tanga,Urban,2,Always,No,No,No,No,Regularly,5,Moderate,Unknown,Low Risk
+54,Male,Single,Tertiary,Unemployed,Mwanza,Rural,1,Always,No,No,No,No,Occasionally,6,Poor,Positive,Low Risk
+56,Male,Married,Secondary,Employed,Morogoro,Urban,1,Sometimes,No,No,No,No,Occasionally,10,Poor,Negative,Low Risk
+23,Male,Divorced,Tertiary,Self-employed,Dodoma,Rural,1,Never,Yes,No,No,No,Never,3,Good,Unknown,Low Risk
+64,Female,Divorced,Secondary,Student,Arusha,Rural,2,Sometimes,Yes,No,No,No,Occasionally,1,Poor,Positive,High Risk
+41,Male,Single,Secondary,Self-employed,Zanzibar,Urban,1,Always,Yes,No,Yes,No,Occasionally,9,Good,Negative,Low Risk
+16,Female,Widowed,Secondary,Employed,Arusha,Rural,1,Sometimes,Yes,No,No,No,Regularly,8,Moderate,Unknown,Low Risk
+19,Female,Married,Primary,Student,Dar es Salaam,Urban,2,Never,Yes,No,No,No,Regularly,6,Moderate,Unknown,High Risk
+43,Male,Single,Secondary,Self-employed,Mbeya,Rural,2,Always,Yes,No,No,No,Regularly,0,Moderate,Negative,Low Risk
+51,Female,Single,Secondary,Employed,Mbeya,Rural,1,Sometimes,Yes,No,No,Yes,Regularly,7,Good,Unknown,High Risk
+52,Female,Single,No Education,Employed,Dar es Salaam,Rural,1,Sometimes,Yes,No,No,No,Never,2,Good,Negative,Low Risk
+33,Female,Single,Secondary,Unemployed,Tanga,Rural,1,Always,No,No,No,Yes,Occasionally,3,Moderate,Positive,High Risk
+22,Female,Widowed,Primary,Employed,Mbeya,Rural,1,Never,Yes,Yes,No,No,Never,4,Good,Unknown,High Risk
+62,Male,Married,Secondary,Self-employed,Mwanza,Urban,2,Never,No,No,Yes,No,Never,0,Good,Negative,High Risk
+59,Male,Divorced,Secondary,Unemployed,Morogoro,Urban,1,Sometimes,No,No,No,No,Occasionally,5,Moderate,Positive,Low Risk
+15,Female,Single,Primary,Student,Morogoro,Rural,2,Always,No,Yes,No,No,Occasionally,9,Moderate,Negative,Low Risk
+36,Male,Single,Primary,Unemployed,Mbeya,Urban,3,Always,No,No,No,No,Occasionally,5,Moderate,Unknown,Low Risk
+31,Male,Married,Primary,Employed,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+21,Male,Single,Tertiary,Employed,Dar es Salaam,Urban,5,Sometimes,Yes,No,No,No,Never,10,Poor,Positive,High Risk
+39,Male,Married,No Education,Unemployed,Tanga,Urban,1,Always,Yes,No,No,No,Never,9,Good,Negative,Low Risk
+59,Male,Widowed,Tertiary,Self-employed,Dodoma,Rural,1,Always,Yes,No,No,No,Never,5,Poor,Negative,Low Risk
+18,Female,Married,Primary,Self-employed,Mbeya,Rural,1,Always,No,Yes,Yes,No,Never,7,Moderate,Negative,Low Risk
+50,Male,Married,Tertiary,Employed,Zanzibar,Rural,1,Never,Yes,No,No,No,Occasionally,5,Moderate,Negative,Low Risk
+20,Male,Single,Tertiary,Employed,Mbeya,Urban,1,Never,Yes,No,No,No,Regularly,3,Poor,Unknown,High Risk
+45,Male,Single,Primary,Employed,Dodoma,Urban,1,Never,Yes,Yes,No,No,Occasionally,3,Good,Unknown,High Risk
+33,Male,Single,Secondary,Self-employed,Dar es Salaam,Urban,3,Always,Yes,No,No,No,Occasionally,8,Good,Unknown,Low Risk
+58,Female,Married,Primary,Employed,Dodoma,Rural,4,Never,No,No,No,No,Never,5,Moderate,Negative,Low Risk
+53,Female,Single,Secondary,Unemployed,Dar es Salaam,Rural,2,Always,No,No,No,No,Regularly,7,Good,Negative,Low Risk
+41,Female,Married,No Education,Self-employed,Mwanza,Rural,1,Sometimes,Yes,No,No,No,Never,7,Moderate,Negative,Low Risk
+24,Female,Married,No Education,Student,Dar es Salaam,Rural,2,Never,Yes,No,No,No,Regularly,6,Good,Negative,Low Risk
+40,Male,Married,No Education,Unemployed,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Regularly,2,Poor,Positive,High Risk
+33,Female,Single,Primary,Employed,Mwanza,Rural,3,Sometimes,Yes,No,No,No,Regularly,9,Moderate,Unknown,Low Risk
+53,Male,Single,Primary,Self-employed,Dar es Salaam,Rural,3,Always,No,No,No,No,Never,0,Good,Negative,Low Risk
+17,Male,Widowed,Secondary,Self-employed,Zanzibar,Rural,3,Always,Yes,No,No,No,Occasionally,4,Poor,Negative,Low Risk
+59,Male,Married,Tertiary,Unemployed,Arusha,Urban,1,Sometimes,No,No,No,No,Never,9,Good,Negative,Low Risk
+27,Male,Married,Primary,Student,Dar es Salaam,Rural,2,Sometimes,No,No,Yes,No,Never,9,Good,Negative,High Risk
+64,Male,Single,Secondary,Self-employed,Mbeya,Rural,1,Never,Yes,No,No,No,Never,1,Moderate,Unknown,Low Risk
+42,Female,Widowed,Primary,Employed,Zanzibar,Rural,5,Sometimes,Yes,No,No,No,Regularly,9,Moderate,Negative,Low Risk
+34,Female,Married,Secondary,Employed,Zanzibar,Urban,1,Sometimes,No,No,No,No,Regularly,1,Moderate,Unknown,High Risk
+42,Female,Single,Tertiary,Unemployed,Mbeya,Rural,0,Always,No,No,No,No,Never,6,Moderate,Negative,Low Risk
+22,Female,Divorced,Tertiary,Self-employed,Arusha,Rural,1,Always,Yes,No,No,No,Occasionally,10,Good,Unknown,Low Risk
+55,Male,Single,Tertiary,Employed,Zanzibar,Urban,3,Never,No,No,No,No,Regularly,2,Poor,Negative,High Risk
+53,Female,Married,No Education,Self-employed,Mwanza,Rural,1,Always,No,No,No,Yes,Occasionally,7,Moderate,Unknown,High Risk
+15,Male,Married,Secondary,Self-employed,Morogoro,Urban,1,Sometimes,Yes,No,No,No,Occasionally,8,Good,Negative,Low Risk
+17,Female,Single,Secondary,Employed,Arusha,Urban,4,Always,No,No,No,No,Occasionally,7,Moderate,Negative,Low Risk
+27,Male,Widowed,Primary,Self-employed,Tanga,Urban,4,Never,Yes,Yes,No,No,Regularly,5,Moderate,Negative,High Risk
+42,Male,Married,Tertiary,Student,Mbeya,Urban,1,Never,Yes,No,No,No,Occasionally,4,Good,Negative,Low Risk
+63,Female,Married,No Education,Employed,Arusha,Rural,1,Always,No,Yes,No,Yes,Regularly,2,Good,Negative,High Risk
+39,Male,Single,Secondary,Unemployed,Dar es Salaam,Urban,3,Always,No,Yes,No,No,Occasionally,2,Good,Unknown,High Risk
+47,Male,Single,Primary,Unemployed,Morogoro,Urban,4,Sometimes,Yes,No,Yes,Yes,Never,6,Poor,Negative,High Risk
+52,Female,Single,Primary,Student,Arusha,Urban,2,Sometimes,Yes,No,No,No,Never,4,Moderate,Positive,High Risk
+20,Male,Divorced,Secondary,Student,Mwanza,Urban,2,Always,No,Yes,No,No,Never,5,Good,Unknown,High Risk
+58,Female,Single,Secondary,Unemployed,Morogoro,Urban,1,Never,No,Yes,No,No,Occasionally,5,Good,Negative,High Risk
+59,Female,Married,Primary,Self-employed,Dar es Salaam,Rural,3,Always,No,No,No,No,Never,8,Moderate,Negative,Low Risk
+46,Female,Married,Primary,Unemployed,Dodoma,Urban,2,Never,No,No,No,No,Regularly,0,Moderate,Unknown,High Risk
+59,Male,Single,Secondary,Unemployed,Mbeya,Rural,2,Sometimes,No,No,No,No,Occasionally,7,Moderate,Unknown,Low Risk
+61,Male,Married,No Education,Employed,Morogoro,Rural,1,Always,Yes,No,No,No,Regularly,9,Poor,Unknown,Low Risk
+35,Male,Single,Primary,Employed,Mbeya,Urban,4,Sometimes,Yes,No,No,No,Regularly,4,Moderate,Unknown,High Risk
+30,Female,Widowed,Tertiary,Employed,Arusha,Rural,2,Sometimes,Yes,No,No,No,Regularly,5,Moderate,Positive,High Risk
+35,Male,Married,Secondary,Unemployed,Zanzibar,Urban,1,Always,No,No,No,No,Regularly,5,Moderate,Unknown,Low Risk
+25,Female,Single,Primary,Employed,Dar es Salaam,Urban,2,Sometimes,No,Yes,No,No,Occasionally,0,Poor,Negative,High Risk
+51,Female,Single,Secondary,Student,Dodoma,Urban,2,Always,Yes,No,No,No,Never,2,Good,Negative,Low Risk
+50,Male,Married,Secondary,Employed,Dar es Salaam,Urban,2,Always,Yes,No,No,No,Regularly,5,Good,Unknown,Low Risk
+49,Female,Divorced,Tertiary,Employed,Mbeya,Rural,2,Always,Yes,No,No,No,Regularly,10,Moderate,Negative,Low Risk
+33,Male,Married,Secondary,Unemployed,Dar es Salaam,Rural,2,Sometimes,Yes,No,Yes,No,Regularly,10,Good,Negative,High Risk
+34,Male,Married,Primary,Self-employed,Dodoma,Urban,4,Always,Yes,No,No,No,Occasionally,8,Good,Negative,Low Risk
+32,Male,Single,Primary,Employed,Zanzibar,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+61,Male,Single,Primary,Unemployed,Arusha,Urban,1,Sometimes,Yes,Yes,Yes,No,Never,5,Good,Negative,Low Risk
+55,Male,Single,Secondary,Student,Mwanza,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,0,Good,Negative,Low Risk
+63,Female,Married,No Education,Employed,Dar es Salaam,Urban,2,Never,No,No,No,No,Never,8,Moderate,Positive,High Risk
+28,Female,Divorced,Secondary,Unemployed,Morogoro,Urban,2,Never,Yes,No,No,Yes,Never,3,Moderate,Negative,High Risk
+29,Female,Married,Primary,Self-employed,Mwanza,Urban,3,Sometimes,No,No,No,No,Occasionally,1,Good,Negative,High Risk
+45,Male,Single,Primary,Employed,Mbeya,Urban,2,Sometimes,No,Yes,Yes,No,Occasionally,0,Poor,Negative,High Risk
+15,Male,Married,Tertiary,Unemployed,Arusha,Rural,2,Always,No,No,No,No,Never,2,Good,Unknown,Low Risk
+17,Male,Divorced,Primary,Unemployed,Tanga,Rural,5,Never,No,No,No,No,Regularly,2,Moderate,Negative,High Risk
+30,Female,Married,No Education,Unemployed,Arusha,Urban,1,Always,Yes,No,No,No,Regularly,4,Good,Unknown,Low Risk
+37,Male,Divorced,Secondary,Employed,Dar es Salaam,Rural,3,Sometimes,Yes,No,No,No,Occasionally,0,Moderate,Negative,Low Risk
+25,Female,Single,No Education,Employed,Morogoro,Rural,1,Never,No,Yes,No,No,Occasionally,6,Good,Negative,High Risk
+26,Female,Single,Secondary,Unemployed,Zanzibar,Rural,2,Always,No,No,No,No,Regularly,0,Good,Negative,Low Risk
+24,Male,Divorced,Secondary,Employed,Arusha,Urban,2,Always,No,No,No,No,Never,3,Good,Negative,Low Risk
+46,Male,Married,Primary,Self-employed,Dar es Salaam,Rural,2,Sometimes,No,Yes,No,No,Occasionally,5,Moderate,Negative,Low Risk
+30,Female,Single,Secondary,Unemployed,Dar es Salaam,Rural,1,Sometimes,Yes,No,No,No,Never,0,Moderate,Negative,Low Risk
+22,Male,Married,Secondary,Unemployed,Mwanza,Rural,1,Never,Yes,No,No,No,Occasionally,6,Good,Negative,Low Risk
+52,Female,Divorced,Primary,Student,Arusha,Urban,2,Never,No,No,No,No,Occasionally,9,Poor,Negative,High Risk
+26,Male,Married,No Education,Self-employed,Dar es Salaam,Urban,3,Always,Yes,No,No,No,Occasionally,6,Good,Unknown,Low Risk
+38,Male,Married,Primary,Employed,Mwanza,Urban,1,Always,Yes,Yes,No,No,Never,2,Moderate,Unknown,Low Risk
+42,Female,Married,Tertiary,Student,Morogoro,Rural,4,Sometimes,No,No,No,No,Never,3,Good,Negative,Low Risk
+22,Male,Married,Primary,Employed,Dodoma,Rural,1,Sometimes,Yes,No,No,No,Occasionally,5,Moderate,Unknown,Low Risk
+42,Female,Married,Secondary,Employed,Morogoro,Urban,2,Sometimes,Yes,Yes,No,No,Occasionally,10,Poor,Unknown,High Risk
+50,Male,Divorced,Secondary,Self-employed,Tanga,Rural,3,Always,No,No,No,No,Occasionally,6,Moderate,Negative,Low Risk
+40,Female,Divorced,Secondary,Unemployed,Mwanza,Rural,2,Sometimes,No,Yes,No,No,Never,3,Good,Unknown,High Risk
+22,Female,Divorced,No Education,Unemployed,Mwanza,Rural,4,Sometimes,Yes,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+64,Male,Single,Primary,Employed,Dar es Salaam,Rural,2,Sometimes,No,Yes,No,No,Never,10,Poor,Negative,High Risk
+42,Female,Married,Secondary,Unemployed,Mbeya,Rural,2,Sometimes,No,Yes,No,No,Never,8,Good,Unknown,High Risk
+42,Male,Divorced,Primary,Employed,Mbeya,Urban,0,Sometimes,Yes,No,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+51,Male,Married,Primary,Student,Zanzibar,Rural,1,Sometimes,Yes,Yes,Yes,No,Occasionally,8,Good,Negative,Low Risk
+55,Male,Divorced,No Education,Employed,Mbeya,Urban,1,Always,Yes,No,No,No,Never,9,Good,Negative,Low Risk
+50,Female,Divorced,Primary,Student,Mwanza,Urban,2,Always,Yes,Yes,No,No,Never,5,Good,Unknown,Low Risk
+41,Female,Married,Tertiary,Unemployed,Zanzibar,Urban,1,Sometimes,Yes,No,No,No,Occasionally,1,Poor,Unknown,Low Risk
+31,Male,Married,No Education,Self-employed,Morogoro,Urban,1,Sometimes,No,Yes,No,No,Never,1,Moderate,Negative,High Risk
+23,Male,Single,Primary,Self-employed,Dar es Salaam,Urban,1,Sometimes,No,Yes,Yes,No,Occasionally,10,Moderate,Negative,High Risk
+47,Female,Married,Primary,Self-employed,Morogoro,Urban,1,Sometimes,No,No,No,No,Occasionally,3,Good,Unknown,Low Risk
+34,Male,Married,Secondary,Unemployed,Arusha,Rural,1,Sometimes,No,No,No,No,Never,8,Moderate,Positive,Low Risk
+27,Male,Divorced,Secondary,Employed,Tanga,Urban,3,Never,No,No,No,No,Never,2,Moderate,Unknown,High Risk
+42,Female,Single,Primary,Employed,Tanga,Rural,3,Always,Yes,No,No,No,Regularly,5,Moderate,Negative,Low Risk
+62,Male,Single,Secondary,Student,Mwanza,Urban,2,Always,Yes,Yes,No,No,Occasionally,1,Good,Positive,High Risk
+43,Female,Married,Secondary,Self-employed,Mwanza,Rural,3,Always,No,No,No,No,Occasionally,0,Poor,Positive,High Risk
+27,Male,Single,Tertiary,Unemployed,Zanzibar,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,4,Moderate,Negative,Low Risk
+60,Female,Single,Secondary,Employed,Dar es Salaam,Urban,3,Sometimes,Yes,No,No,No,Occasionally,7,Poor,Positive,High Risk
+49,Male,Single,Primary,Unemployed,Dodoma,Rural,1,Always,No,No,No,No,Regularly,9,Good,Negative,Low Risk
+20,Male,Single,Primary,Self-employed,Mwanza,Rural,1,Sometimes,No,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+32,Female,Single,No Education,Unemployed,Dodoma,Rural,2,Always,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+19,Male,Married,Primary,Self-employed,Morogoro,Rural,1,Sometimes,No,Yes,No,No,Occasionally,9,Poor,Unknown,High Risk
+61,Female,Married,Tertiary,Student,Dodoma,Rural,2,Sometimes,Yes,No,No,No,Occasionally,8,Good,Negative,Low Risk
+39,Male,Divorced,Primary,Employed,Mbeya,Rural,1,Never,No,No,No,No,Occasionally,7,Poor,Negative,Low Risk
+16,Female,Married,Primary,Unemployed,Dar es Salaam,Urban,3,Always,Yes,No,No,No,Occasionally,2,Poor,Negative,Low Risk
+24,Female,Married,Secondary,Unemployed,Tanga,Urban,1,Never,No,Yes,No,No,Regularly,0,Moderate,Negative,High Risk
+44,Female,Single,Secondary,Unemployed,Tanga,Rural,1,Never,Yes,No,No,No,Occasionally,3,Moderate,Unknown,Low Risk
+64,Female,Single,No Education,Employed,Dodoma,Urban,2,Always,No,No,No,No,Never,7,Moderate,Unknown,Low Risk
+59,Male,Married,Primary,Employed,Tanga,Rural,1,Always,Yes,No,No,No,Never,2,Moderate,Negative,Low Risk
+19,Male,Single,Primary,Student,Morogoro,Urban,1,Sometimes,Yes,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+47,Female,Married,Secondary,Unemployed,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Never,1,Moderate,Negative,Low Risk
+15,Female,Married,No Education,Unemployed,Mbeya,Rural,2,Never,Yes,No,No,No,Never,6,Poor,Negative,Low Risk
+32,Female,Married,Primary,Student,Dar es Salaam,Urban,2,Sometimes,Yes,No,No,No,Occasionally,3,Good,Negative,Low Risk
+46,Male,Single,Secondary,Self-employed,Mwanza,Urban,1,Never,Yes,No,No,No,Occasionally,5,Poor,Unknown,Low Risk
+61,Male,Single,Primary,Employed,Dodoma,Rural,4,Always,No,Yes,No,No,Regularly,4,Good,Negative,High Risk
+63,Male,Married,Secondary,Unemployed,Dar es Salaam,Rural,3,Always,No,Yes,No,No,Never,1,Good,Unknown,High Risk
+25,Male,Single,Primary,Unemployed,Morogoro,Urban,2,Never,Yes,No,No,No,Never,9,Good,Negative,Low Risk
+35,Female,Married,Primary,Self-employed,Tanga,Urban,2,Never,No,No,No,No,Never,1,Good,Negative,High Risk
+40,Female,Married,Tertiary,Self-employed,Arusha,Rural,1,Sometimes,Yes,No,No,No,Occasionally,8,Poor,Unknown,Low Risk
+39,Female,Widowed,Secondary,Self-employed,Dar es Salaam,Rural,2,Never,Yes,Yes,No,No,Never,10,Poor,Negative,High Risk
+36,Male,Single,No Education,Unemployed,Dodoma,Urban,1,Never,Yes,No,No,No,Occasionally,9,Poor,Unknown,Low Risk
+41,Male,Divorced,Secondary,Self-employed,Mbeya,Urban,1,Never,No,Yes,No,No,Never,1,Poor,Unknown,High Risk
+63,Male,Married,Secondary,Employed,Tanga,Rural,5,Never,Yes,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+27,Female,Married,Secondary,Employed,Mbeya,Urban,2,Never,No,No,No,No,Regularly,7,Good,Positive,High Risk
+47,Female,Single,Primary,Unemployed,Dodoma,Urban,1,Always,Yes,Yes,No,No,Never,0,Moderate,Negative,Low Risk
+48,Male,Married,Tertiary,Employed,Tanga,Rural,1,Never,Yes,Yes,Yes,No,Occasionally,0,Poor,Unknown,High Risk
+55,Female,Single,Primary,Employed,Mwanza,Urban,2,Always,Yes,No,Yes,No,Occasionally,3,Good,Negative,Low Risk
+49,Male,Married,Primary,Self-employed,Tanga,Rural,0,Never,No,No,No,No,Regularly,1,Poor,Negative,Low Risk
+15,Male,Single,Primary,Student,Mwanza,Urban,1,Sometimes,No,No,No,No,Occasionally,0,Moderate,Negative,Low Risk
+35,Female,Divorced,No Education,Unemployed,Mbeya,Rural,0,Sometimes,No,No,No,No,Occasionally,8,Poor,Negative,Low Risk
+62,Male,Divorced,Secondary,Employed,Mbeya,Rural,1,Sometimes,No,No,No,No,Regularly,2,Moderate,Negative,Low Risk
+20,Female,Married,No Education,Employed,Dodoma,Urban,2,Always,No,Yes,No,No,Occasionally,0,Moderate,Negative,High Risk
+42,Male,Single,No Education,Employed,Mwanza,Rural,1,Always,No,No,No,No,Occasionally,1,Poor,Negative,Low Risk
+31,Female,Single,Tertiary,Employed,Mbeya,Urban,2,Never,Yes,No,No,No,Never,7,Poor,Positive,High Risk
+19,Female,Married,Primary,Student,Mwanza,Rural,1,Never,No,No,No,No,Occasionally,4,Good,Negative,Low Risk
+45,Female,Married,No Education,Employed,Mbeya,Rural,2,Sometimes,Yes,No,No,No,Regularly,10,Poor,Unknown,High Risk
+19,Male,Single,No Education,Unemployed,Tanga,Urban,5,Never,No,Yes,No,No,Regularly,6,Poor,Unknown,High Risk
+52,Male,Married,No Education,Employed,Dar es Salaam,Urban,2,Never,No,No,No,No,Regularly,5,Good,Positive,High Risk
+17,Female,Widowed,Primary,Student,Morogoro,Urban,3,Sometimes,No,No,Yes,No,Regularly,0,Good,Negative,High Risk
+37,Female,Married,Secondary,Self-employed,Arusha,Rural,4,Always,Yes,No,Yes,No,Occasionally,5,Moderate,Negative,Low Risk
+51,Male,Married,Primary,Student,Morogoro,Urban,1,Never,No,No,No,No,Regularly,10,Moderate,Negative,Low Risk
+51,Male,Widowed,No Education,Self-employed,Tanga,Urban,2,Sometimes,No,No,No,No,Occasionally,6,Moderate,Unknown,High Risk
+24,Male,Single,Secondary,Unemployed,Zanzibar,Urban,3,Never,Yes,No,No,No,Occasionally,3,Good,Unknown,High Risk
+24,Female,Married,Secondary,Employed,Morogoro,Urban,1,Never,Yes,No,No,No,Never,7,Moderate,Unknown,Low Risk
+33,Male,Widowed,Primary,Self-employed,Dar es Salaam,Rural,1,Never,No,No,No,No,Never,7,Moderate,Negative,Low Risk
+31,Male,Single,Secondary,Unemployed,Zanzibar,Urban,4,Sometimes,No,No,Yes,No,Regularly,6,Good,Negative,High Risk
+35,Female,Married,Primary,Unemployed,Mbeya,Rural,2,Always,Yes,No,No,No,Occasionally,10,Moderate,Unknown,Low Risk
+28,Male,Married,Primary,Employed,Arusha,Urban,1,Sometimes,Yes,No,No,No,Never,1,Good,Positive,Low Risk
+23,Male,Married,Secondary,Employed,Arusha,Urban,1,Sometimes,Yes,Yes,No,No,Never,5,Good,Positive,High Risk
+60,Male,Married,Primary,Unemployed,Mbeya,Rural,3,Always,Yes,Yes,No,No,Regularly,5,Moderate,Positive,High Risk
+15,Female,Widowed,Tertiary,Unemployed,Mbeya,Rural,2,Sometimes,No,No,No,No,Occasionally,6,Poor,Negative,Low Risk
+59,Female,Divorced,No Education,Self-employed,Mwanza,Rural,2,Sometimes,No,No,No,No,Occasionally,5,Good,Negative,Low Risk
+27,Female,Single,Secondary,Employed,Mbeya,Urban,3,Never,No,No,No,No,Occasionally,1,Moderate,Negative,High Risk
+18,Female,Divorced,No Education,Unemployed,Dodoma,Urban,2,Always,Yes,No,No,No,Occasionally,7,Good,Unknown,Low Risk
+15,Female,Single,Secondary,Employed,Morogoro,Rural,2,Sometimes,No,Yes,No,No,Never,3,Good,Unknown,High Risk
+63,Female,Married,Secondary,Employed,Mbeya,Urban,2,Always,Yes,No,No,No,Occasionally,8,Moderate,Negative,Low Risk
+54,Female,Married,Secondary,Unemployed,Dodoma,Urban,2,Always,Yes,No,No,No,Regularly,7,Moderate,Negative,Low Risk
+46,Male,Married,No Education,Employed,Mbeya,Rural,2,Always,Yes,No,No,No,Occasionally,2,Good,Negative,Low Risk
+48,Male,Married,Secondary,Employed,Mwanza,Rural,1,Never,Yes,Yes,No,No,Occasionally,2,Poor,Unknown,High Risk
+42,Female,Widowed,Secondary,Unemployed,Dodoma,Rural,1,Always,Yes,Yes,No,No,Never,7,Good,Negative,Low Risk
+45,Male,Married,Secondary,Employed,Morogoro,Rural,5,Never,Yes,No,Yes,No,Occasionally,1,Poor,Unknown,High Risk
+22,Male,Married,Secondary,Employed,Dar es Salaam,Rural,1,Always,Yes,Yes,No,No,Never,8,Poor,Negative,Low Risk
+53,Female,Single,Secondary,Employed,Dodoma,Urban,1,Never,Yes,Yes,No,No,Occasionally,3,Moderate,Unknown,High Risk
+40,Male,Widowed,Primary,Employed,Tanga,Urban,1,Never,No,Yes,No,No,Occasionally,5,Good,Negative,High Risk
+48,Male,Widowed,Primary,Employed,Mwanza,Rural,3,Never,Yes,No,No,No,Regularly,2,Moderate,Negative,High Risk
+17,Male,Divorced,Primary,Self-employed,Zanzibar,Rural,1,Never,No,No,No,No,Occasionally,2,Moderate,Negative,High Risk
+64,Male,Single,No Education,Employed,Morogoro,Rural,1,Never,Yes,No,No,No,Never,2,Poor,Negative,Low Risk
+26,Male,Single,Tertiary,Employed,Dodoma,Urban,1,Never,No,No,Yes,No,Occasionally,10,Moderate,Unknown,High Risk
+15,Female,Single,Secondary,Unemployed,Tanga,Urban,2,Sometimes,No,No,No,No,Occasionally,9,Moderate,Unknown,High Risk
+58,Female,Single,Tertiary,Self-employed,Tanga,Rural,1,Always,No,Yes,No,No,Never,1,Poor,Negative,Low Risk
+19,Female,Married,Primary,Student,Morogoro,Urban,1,Always,No,No,No,No,Occasionally,7,Poor,Unknown,Low Risk
+44,Male,Widowed,Tertiary,Self-employed,Morogoro,Urban,1,Always,Yes,No,No,No,Regularly,8,Moderate,Negative,Low Risk
+44,Female,Married,Secondary,Self-employed,Tanga,Rural,3,Sometimes,Yes,No,No,No,Never,7,Poor,Unknown,Low Risk
+31,Male,Single,Secondary,Unemployed,Mbeya,Rural,1,Sometimes,Yes,No,No,No,Occasionally,9,Moderate,Negative,Low Risk
+62,Male,Single,Secondary,Self-employed,Tanga,Urban,1,Never,Yes,Yes,No,No,Regularly,2,Moderate,Unknown,High Risk
+61,Male,Single,Primary,Unemployed,Mbeya,Rural,2,Never,Yes,No,No,No,Occasionally,6,Moderate,Positive,High Risk
+37,Male,Single,Secondary,Employed,Zanzibar,Rural,4,Sometimes,No,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+29,Female,Single,Secondary,Employed,Mwanza,Urban,2,Sometimes,No,Yes,No,No,Never,9,Good,Negative,Low Risk
+51,Female,Single,No Education,Employed,Arusha,Urban,5,Never,No,No,Yes,No,Never,1,Moderate,Negative,High Risk
+35,Male,Divorced,Primary,Student,Mbeya,Urban,3,Always,No,No,No,No,Occasionally,3,Moderate,Negative,Low Risk
+28,Female,Widowed,Tertiary,Unemployed,Tanga,Urban,0,Never,No,No,Yes,No,Occasionally,5,Good,Negative,Low Risk
+16,Male,Married,Tertiary,Self-employed,Tanga,Rural,2,Always,No,No,No,No,Regularly,10,Good,Unknown,Low Risk
+25,Female,Married,Tertiary,Unemployed,Dar es Salaam,Urban,1,Sometimes,No,Yes,No,No,Never,4,Poor,Unknown,High Risk
+53,Female,Divorced,Secondary,Unemployed,Tanga,Rural,2,Always,Yes,Yes,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+52,Male,Single,Primary,Employed,Mwanza,Urban,1,Never,Yes,Yes,No,No,Never,9,Good,Unknown,High Risk
+48,Female,Single,Primary,Employed,Dodoma,Urban,1,Sometimes,No,No,Yes,No,Never,3,Poor,Unknown,High Risk
+52,Male,Divorced,Primary,Self-employed,Dodoma,Rural,4,Always,No,Yes,No,No,Occasionally,4,Poor,Unknown,High Risk
+64,Female,Single,No Education,Unemployed,Tanga,Urban,1,Always,No,No,No,Yes,Occasionally,3,Moderate,Unknown,High Risk
+48,Male,Married,Primary,Unemployed,Dar es Salaam,Rural,3,Sometimes,Yes,Yes,No,No,Never,7,Good,Negative,Low Risk
+32,Male,Married,Primary,Self-employed,Mbeya,Urban,0,Never,No,No,No,No,Never,7,Poor,Unknown,Low Risk
+44,Female,Single,Primary,Employed,Mwanza,Urban,1,Never,Yes,No,No,No,Occasionally,2,Poor,Unknown,High Risk
+29,Female,Single,Tertiary,Student,Dar es Salaam,Rural,3,Sometimes,Yes,No,No,No,Regularly,0,Good,Unknown,Low Risk
+41,Male,Divorced,Primary,Unemployed,Mbeya,Urban,2,Sometimes,Yes,No,No,No,Regularly,5,Good,Negative,Low Risk
+48,Female,Single,Tertiary,Unemployed,Mwanza,Rural,2,Sometimes,Yes,No,No,No,Never,1,Moderate,Positive,High Risk
+52,Female,Single,Secondary,Unemployed,Tanga,Rural,1,Never,Yes,No,No,No,Regularly,1,Moderate,Unknown,Low Risk
+47,Male,Married,Primary,Employed,Dodoma,Urban,2,Never,Yes,No,No,No,Occasionally,2,Good,Unknown,High Risk
+38,Male,Married,Primary,Employed,Mwanza,Urban,2,Sometimes,Yes,No,No,No,Regularly,7,Moderate,Negative,Low Risk
+29,Female,Single,No Education,Self-employed,Tanga,Rural,2,Never,Yes,No,No,No,Never,2,Moderate,Negative,High Risk
+44,Male,Divorced,Primary,Student,Zanzibar,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Poor,Negative,Low Risk
+56,Male,Married,Secondary,Self-employed,Arusha,Urban,4,Never,No,No,Yes,No,Regularly,9,Moderate,Negative,High Risk
+31,Male,Divorced,No Education,Employed,Mwanza,Rural,2,Never,Yes,No,No,No,Never,9,Moderate,Negative,Low Risk
+19,Female,Divorced,Primary,Unemployed,Arusha,Urban,4,Never,Yes,No,No,No,Regularly,8,Poor,Unknown,High Risk
+43,Female,Married,Primary,Employed,Mwanza,Rural,2,Never,No,No,No,No,Regularly,7,Good,Unknown,High Risk
+18,Male,Married,Tertiary,Employed,Arusha,Urban,2,Always,Yes,No,No,No,Regularly,0,Good,Unknown,Low Risk
+24,Female,Widowed,Secondary,Self-employed,Zanzibar,Rural,1,Never,Yes,Yes,No,No,Never,6,Poor,Negative,High Risk
+31,Male,Single,Secondary,Unemployed,Dodoma,Rural,1,Sometimes,No,No,No,No,Never,6,Good,Unknown,Low Risk
+24,Female,Married,No Education,Employed,Morogoro,Urban,3,Always,No,No,Yes,No,Never,7,Poor,Negative,High Risk
+31,Male,Single,Secondary,Employed,Mbeya,Urban,1,Sometimes,Yes,No,No,No,Regularly,9,Good,Negative,Low Risk
+34,Male,Single,Secondary,Student,Arusha,Urban,1,Never,Yes,Yes,No,No,Never,4,Good,Negative,High Risk
+38,Female,Single,Secondary,Employed,Zanzibar,Rural,1,Always,Yes,No,No,No,Occasionally,9,Poor,Unknown,Low Risk
+19,Male,Widowed,Tertiary,Unemployed,Arusha,Urban,1,Sometimes,No,No,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+48,Female,Widowed,Primary,Unemployed,Dodoma,Urban,4,Sometimes,Yes,Yes,No,No,Occasionally,8,Moderate,Unknown,High Risk
+20,Female,Single,Tertiary,Employed,Arusha,Rural,3,Always,Yes,No,No,No,Never,7,Good,Negative,Low Risk
+16,Male,Single,Tertiary,Employed,Zanzibar,Rural,1,Always,Yes,No,Yes,No,Occasionally,5,Good,Negative,Low Risk
+27,Male,Married,No Education,Unemployed,Tanga,Rural,1,Never,No,No,No,No,Regularly,5,Poor,Positive,High Risk
+57,Female,Married,Primary,Self-employed,Zanzibar,Rural,2,Never,No,Yes,No,No,Never,0,Moderate,Unknown,High Risk
+57,Male,Single,Tertiary,Unemployed,Morogoro,Urban,2,Always,No,Yes,No,No,Regularly,5,Moderate,Unknown,High Risk
+62,Male,Married,No Education,Self-employed,Morogoro,Rural,5,Never,No,No,No,No,Occasionally,3,Good,Negative,High Risk
+25,Male,Married,Secondary,Student,Morogoro,Urban,2,Never,Yes,No,Yes,No,Occasionally,3,Moderate,Negative,High Risk
+61,Male,Widowed,Tertiary,Self-employed,Dar es Salaam,Urban,1,Sometimes,No,No,No,No,Occasionally,1,Poor,Unknown,High Risk
+37,Male,Single,Secondary,Unemployed,Dodoma,Rural,2,Never,No,Yes,No,No,Never,10,Poor,Unknown,High Risk
+30,Female,Married,Primary,Unemployed,Tanga,Rural,5,Never,Yes,Yes,No,No,Occasionally,3,Moderate,Negative,High Risk
+45,Female,Married,Secondary,Self-employed,Dar es Salaam,Urban,2,Sometimes,No,No,No,No,Regularly,4,Moderate,Unknown,High Risk
+25,Male,Divorced,Primary,Self-employed,Dodoma,Rural,2,Always,No,No,No,Yes,Never,4,Moderate,Unknown,High Risk
+30,Male,Married,Secondary,Unemployed,Tanga,Urban,1,Never,No,No,No,No,Occasionally,4,Moderate,Negative,Low Risk
+22,Male,Married,No Education,Self-employed,Arusha,Urban,2,Sometimes,Yes,No,No,No,Never,3,Moderate,Negative,High Risk
+18,Female,Single,Secondary,Employed,Tanga,Rural,3,Always,No,Yes,No,No,Occasionally,0,Good,Negative,High Risk
+54,Male,Divorced,Secondary,Unemployed,Zanzibar,Urban,1,Sometimes,No,No,No,No,Occasionally,9,Good,Negative,Low Risk
+18,Female,Married,Secondary,Employed,Dar es Salaam,Urban,1,Sometimes,Yes,No,No,No,Occasionally,7,Poor,Unknown,Low Risk
+39,Female,Single,Secondary,Employed,Arusha,Rural,1,Never,Yes,No,No,No,Never,2,Good,Negative,Low Risk
+17,Female,Married,Secondary,Employed,Zanzibar,Rural,1,Sometimes,Yes,No,No,No,Regularly,1,Good,Negative,Low Risk
+46,Male,Single,Secondary,Self-employed,Dodoma,Rural,0,Always,No,No,Yes,No,Never,8,Moderate,Negative,Low Risk
+17,Female,Single,No Education,Unemployed,Tanga,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Moderate,Positive,High Risk
+41,Male,Divorced,Secondary,Employed,Zanzibar,Rural,2,Sometimes,Yes,No,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+43,Female,Married,Primary,Unemployed,Arusha,Rural,0,Always,Yes,No,Yes,No,Regularly,1,Moderate,Negative,Low Risk
+46,Male,Married,Tertiary,Unemployed,Dar es Salaam,Rural,1,Sometimes,Yes,No,No,No,Never,8,Poor,Negative,Low Risk
+64,Female,Single,No Education,Employed,Dar es Salaam,Urban,3,Never,No,No,No,No,Regularly,9,Moderate,Unknown,High Risk
+33,Male,Divorced,Primary,Self-employed,Morogoro,Urban,2,Always,Yes,No,Yes,No,Occasionally,8,Poor,Negative,High Risk
+35,Female,Single,Secondary,Self-employed,Tanga,Rural,2,Sometimes,No,No,No,No,Occasionally,10,Good,Unknown,High Risk
+19,Male,Married,Primary,Self-employed,Zanzibar,Rural,1,Sometimes,No,No,No,No,Occasionally,8,Good,Negative,Low Risk
+32,Male,Widowed,No Education,Self-employed,Morogoro,Rural,2,Always,No,No,No,Yes,Regularly,9,Moderate,Unknown,High Risk
+42,Male,Divorced,Secondary,Unemployed,Arusha,Rural,1,Sometimes,Yes,No,No,No,Occasionally,9,Good,Unknown,Low Risk
+56,Male,Married,Secondary,Employed,Morogoro,Rural,3,Sometimes,Yes,Yes,No,No,Regularly,3,Good,Negative,High Risk
+36,Female,Single,Secondary,Employed,Mwanza,Urban,1,Never,Yes,No,No,No,Never,9,Good,Unknown,Low Risk
+35,Female,Divorced,Primary,Employed,Dodoma,Urban,2,Always,Yes,No,No,No,Regularly,2,Moderate,Positive,High Risk
+20,Male,Married,Secondary,Student,Morogoro,Urban,1,Never,Yes,No,No,No,Never,5,Moderate,Unknown,Low Risk
+15,Female,Divorced,Primary,Employed,Dodoma,Urban,2,Always,No,No,No,No,Occasionally,2,Poor,Negative,Low Risk
+19,Male,Divorced,Secondary,Employed,Arusha,Urban,2,Never,Yes,No,No,No,Occasionally,10,Good,Unknown,Low Risk
+55,Male,Single,Secondary,Student,Mwanza,Urban,1,Sometimes,Yes,Yes,No,No,Occasionally,8,Moderate,Negative,Low Risk
+26,Female,Single,Secondary,Student,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Never,2,Good,Unknown,Low Risk
+40,Male,Married,Primary,Self-employed,Tanga,Rural,2,Always,Yes,No,No,Yes,Occasionally,1,Moderate,Unknown,High Risk
+60,Male,Single,No Education,Employed,Mbeya,Rural,5,Sometimes,No,No,No,No,Never,7,Moderate,Unknown,High Risk
+48,Female,Single,Primary,Employed,Mbeya,Rural,3,Always,Yes,No,No,No,Occasionally,5,Moderate,Negative,Low Risk
+63,Male,Widowed,No Education,Unemployed,Tanga,Urban,1,Never,Yes,Yes,No,No,Never,7,Poor,Negative,High Risk
+28,Male,Married,Primary,Employed,Arusha,Rural,1,Sometimes,No,No,No,No,Occasionally,6,Poor,Negative,Low Risk
+40,Male,Divorced,Secondary,Employed,Mwanza,Rural,4,Sometimes,Yes,Yes,No,No,Never,2,Moderate,Negative,High Risk
+59,Male,Married,Primary,Unemployed,Mwanza,Rural,2,Never,Yes,No,No,No,Never,7,Poor,Negative,High Risk
+41,Female,Married,Tertiary,Student,Dodoma,Urban,2,Sometimes,Yes,No,No,No,Never,9,Moderate,Negative,Low Risk
+23,Female,Single,No Education,Unemployed,Dar es Salaam,Urban,4,Never,Yes,No,No,Yes,Occasionally,0,Poor,Negative,High Risk
+40,Female,Single,Secondary,Self-employed,Zanzibar,Urban,3,Sometimes,Yes,Yes,Yes,No,Regularly,0,Moderate,Negative,High Risk
+61,Male,Single,Secondary,Self-employed,Morogoro,Rural,2,Never,Yes,Yes,No,No,Regularly,9,Moderate,Negative,Low Risk
+36,Male,Married,Primary,Employed,Mwanza,Rural,1,Sometimes,No,No,No,No,Never,7,Moderate,Negative,Low Risk
+61,Female,Divorced,No Education,Self-employed,Tanga,Rural,1,Sometimes,Yes,Yes,No,No,Occasionally,8,Good,Negative,Low Risk
+44,Male,Married,Secondary,Employed,Zanzibar,Rural,2,Always,No,No,No,No,Occasionally,9,Moderate,Unknown,Low Risk
+57,Male,Married,Primary,Employed,Mbeya,Rural,1,Never,No,No,No,No,Occasionally,5,Poor,Positive,High Risk
+62,Male,Married,Tertiary,Self-employed,Zanzibar,Rural,1,Sometimes,Yes,No,No,No,Occasionally,4,Moderate,Negative,Low Risk
+31,Male,Single,Secondary,Employed,Dar es Salaam,Urban,1,Sometimes,Yes,No,No,No,Never,1,Good,Negative,Low Risk
+40,Female,Married,Tertiary,Student,Tanga,Urban,1,Never,Yes,No,No,No,Occasionally,10,Moderate,Negative,Low Risk
+50,Female,Single,Primary,Employed,Dar es Salaam,Rural,2,Always,No,No,No,No,Occasionally,8,Poor,Unknown,Low Risk
+15,Female,Single,Secondary,Unemployed,Zanzibar,Urban,2,Never,No,No,No,No,Never,5,Poor,Negative,High Risk
+22,Male,Single,Secondary,Unemployed,Morogoro,Rural,1,Never,No,No,No,No,Occasionally,7,Moderate,Negative,Low Risk
+63,Female,Married,Secondary,Employed,Arusha,Rural,1,Never,Yes,Yes,Yes,No,Occasionally,8,Poor,Unknown,High Risk
+49,Female,Divorced,Primary,Employed,Mwanza,Rural,4,Never,No,No,No,No,Never,8,Poor,Unknown,High Risk
+29,Male,Single,Secondary,Self-employed,Tanga,Rural,0,Sometimes,Yes,Yes,No,No,Occasionally,7,Good,Positive,High Risk
+61,Male,Single,Primary,Self-employed,Arusha,Rural,3,Always,Yes,Yes,No,No,Regularly,9,Poor,Negative,Low Risk
+36,Female,Married,Secondary,Self-employed,Zanzibar,Rural,4,Never,Yes,Yes,Yes,No,Regularly,7,Good,Negative,High Risk
+28,Female,Single,Primary,Unemployed,Mwanza,Urban,1,Sometimes,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+40,Female,Divorced,Tertiary,Self-employed,Dodoma,Urban,2,Always,Yes,No,No,No,Occasionally,2,Moderate,Negative,Low Risk
+42,Female,Married,No Education,Self-employed,Arusha,Urban,4,Never,No,No,No,No,Occasionally,1,Moderate,Unknown,High Risk
+37,Male,Married,Secondary,Self-employed,Arusha,Rural,1,Sometimes,No,No,No,No,Occasionally,0,Moderate,Negative,Low Risk
+28,Female,Married,Tertiary,Unemployed,Zanzibar,Urban,2,Never,No,No,No,No,Never,3,Moderate,Unknown,High Risk
+38,Female,Single,Secondary,Self-employed,Mbeya,Urban,1,Never,Yes,No,No,No,Occasionally,1,Poor,Negative,Low Risk
+16,Male,Married,Secondary,Self-employed,Zanzibar,Urban,1,Never,No,No,No,No,Occasionally,1,Poor,Negative,High Risk
+59,Female,Married,Primary,Unemployed,Arusha,Rural,3,Never,Yes,Yes,No,No,Occasionally,10,Poor,Unknown,High Risk
+40,Male,Divorced,Tertiary,Self-employed,Mwanza,Rural,3,Never,Yes,No,Yes,No,Regularly,10,Moderate,Positive,High Risk
+28,Male,Single,Primary,Unemployed,Morogoro,Rural,3,Never,Yes,Yes,No,No,Regularly,4,Good,Negative,High Risk
+21,Male,Married,Secondary,Employed,Mbeya,Rural,1,Sometimes,Yes,No,No,No,Never,3,Moderate,Negative,Low Risk
+17,Female,Married,Secondary,Employed,Zanzibar,Rural,1,Always,Yes,No,No,No,Never,0,Poor,Negative,Low Risk
+61,Female,Single,Secondary,Unemployed,Morogoro,Rural,2,Never,Yes,No,No,No,Never,8,Good,Negative,Low Risk
+37,Male,Married,Primary,Unemployed,Tanga,Rural,1,Never,No,No,No,No,Occasionally,3,Poor,Positive,High Risk
+60,Female,Married,Secondary,Self-employed,Zanzibar,Rural,2,Sometimes,No,No,No,No,Occasionally,4,Poor,Negative,Low Risk
+57,Female,Divorced,Secondary,Employed,Arusha,Urban,2,Always,Yes,No,No,No,Regularly,6,Moderate,Negative,Low Risk
+61,Male,Single,No Education,Self-employed,Morogoro,Rural,2,Sometimes,No,No,No,No,Occasionally,1,Moderate,Unknown,High Risk
+59,Male,Divorced,Tertiary,Student,Arusha,Urban,2,Always,No,No,No,No,Regularly,7,Moderate,Positive,High Risk
+32,Female,Widowed,No Education,Employed,Dodoma,Urban,1,Never,Yes,Yes,No,No,Occasionally,10,Moderate,Negative,High Risk
+52,Male,Divorced,Primary,Student,Morogoro,Rural,1,Never,No,No,No,No,Regularly,1,Moderate,Unknown,Low Risk
+49,Female,Single,No Education,Student,Morogoro,Urban,1,Always,Yes,No,No,No,Occasionally,10,Poor,Unknown,Low Risk
+29,Female,Married,No Education,Self-employed,Zanzibar,Urban,2,Sometimes,No,No,Yes,No,Occasionally,9,Moderate,Negative,High Risk
+39,Female,Single,Tertiary,Self-employed,Arusha,Rural,2,Always,No,No,No,No,Occasionally,4,Poor,Positive,High Risk
+51,Female,Widowed,Primary,Student,Tanga,Urban,3,Never,No,No,No,No,Occasionally,1,Poor,Unknown,High Risk
+42,Male,Married,Primary,Self-employed,Dar es Salaam,Rural,3,Sometimes,No,No,Yes,No,Occasionally,1,Good,Negative,High Risk
+24,Male,Single,Primary,Unemployed,Mbeya,Rural,5,Sometimes,No,No,No,No,Never,3,Good,Unknown,High Risk
+53,Male,Married,Secondary,Self-employed,Dar es Salaam,Rural,1,Sometimes,No,No,No,No,Never,3,Poor,Unknown,Low Risk
+31,Male,Single,Secondary,Self-employed,Mbeya,Rural,1,Always,Yes,No,No,No,Occasionally,7,Good,Negative,Low Risk
+53,Female,Widowed,Primary,Unemployed,Tanga,Rural,1,Sometimes,Yes,No,Yes,No,Occasionally,5,Moderate,Negative,Low Risk
+36,Female,Widowed,Primary,Employed,Morogoro,Rural,2,Always,Yes,No,No,No,Never,9,Moderate,Unknown,Low Risk
+40,Male,Married,Tertiary,Self-employed,Morogoro,Rural,1,Sometimes,Yes,No,No,No,Never,7,Good,Negative,Low Risk
+58,Female,Single,Primary,Employed,Zanzibar,Rural,3,Always,Yes,No,No,No,Never,6,Good,Negative,Low Risk
+39,Female,Married,Primary,Student,Dodoma,Rural,2,Sometimes,No,No,No,No,Occasionally,9,Poor,Negative,Low Risk
+31,Female,Single,Primary,Unemployed,Arusha,Rural,4,Never,Yes,No,No,No,Never,3,Moderate,Unknown,Low Risk
+27,Male,Single,Secondary,Employed,Arusha,Urban,4,Never,No,No,No,No,Never,1,Moderate,Negative,High Risk
+34,Male,Divorced,Primary,Unemployed,Arusha,Urban,1,Never,No,No,No,Yes,Never,8,Poor,Unknown,High Risk
+39,Male,Single,Secondary,Employed,Zanzibar,Rural,1,Never,No,No,No,No,Never,1,Good,Unknown,Low Risk
+18,Female,Married,Primary,Self-employed,Mbeya,Urban,2,Always,No,No,No,No,Regularly,0,Good,Negative,Low Risk
+24,Male,Widowed,Tertiary,Student,Morogoro,Urban,1,Always,Yes,No,No,No,Never,7,Poor,Unknown,Low Risk
+17,Male,Single,Primary,Self-employed,Tanga,Rural,1,Sometimes,No,No,No,No,Occasionally,9,Poor,Negative,Low Risk
+55,Male,Single,Secondary,Employed,Arusha,Urban,2,Never,Yes,No,No,No,Occasionally,8,Moderate,Unknown,Low Risk
+59,Male,Widowed,Primary,Employed,Dar es Salaam,Urban,1,Never,Yes,Yes,No,No,Regularly,0,Poor,Negative,High Risk
+32,Male,Single,Primary,Self-employed,Arusha,Rural,2,Always,Yes,No,No,No,Never,6,Poor,Negative,Low Risk
+61,Male,Divorced,Secondary,Student,Morogoro,Rural,2,Sometimes,Yes,Yes,No,No,Never,1,Good,Unknown,High Risk
+50,Female,Widowed,Primary,Unemployed,Zanzibar,Urban,1,Always,No,No,No,No,Never,5,Good,Negative,Low Risk
+61,Female,Widowed,Tertiary,Unemployed,Tanga,Rural,1,Never,Yes,Yes,No,Yes,Never,10,Poor,Unknown,High Risk
+36,Male,Married,Tertiary,Unemployed,Dodoma,Rural,1,Sometimes,Yes,No,No,No,Occasionally,4,Good,Unknown,Low Risk
+48,Male,Single,Tertiary,Student,Tanga,Urban,2,Always,No,No,No,No,Never,0,Good,Negative,Low Risk
+61,Female,Single,No Education,Self-employed,Dar es Salaam,Urban,1,Sometimes,No,No,No,No,Never,1,Poor,Negative,Low Risk
+22,Female,Divorced,Secondary,Employed,Arusha,Rural,3,Sometimes,Yes,No,No,No,Regularly,1,Moderate,Unknown,Low Risk
+54,Male,Divorced,Primary,Employed,Arusha,Rural,1,Never,No,No,No,No,Occasionally,9,Moderate,Negative,Low Risk
+63,Male,Married,Tertiary,Student,Mwanza,Rural,1,Always,No,No,No,No,Never,9,Good,Unknown,Low Risk
+58,Male,Single,Secondary,Employed,Mbeya,Rural,1,Never,No,No,No,No,Never,5,Moderate,Unknown,Low Risk
+33,Male,Single,Secondary,Unemployed,Dar es Salaam,Rural,1,Sometimes,Yes,No,No,No,Never,10,Moderate,Unknown,Low Risk
+56,Female,Single,Primary,Unemployed,Mwanza,Urban,1,Never,Yes,No,No,No,Regularly,0,Good,Unknown,Low Risk
+55,Male,Married,Secondary,Employed,Tanga,Rural,2,Never,Yes,No,No,No,Regularly,10,Good,Negative,Low Risk
+51,Male,Married,No Education,Employed,Dodoma,Urban,2,Always,Yes,No,No,No,Regularly,3,Moderate,Unknown,High Risk
+20,Male,Widowed,Secondary,Self-employed,Mbeya,Rural,1,Always,No,No,No,No,Regularly,9,Poor,Unknown,Low Risk
+40,Male,Married,Primary,Student,Dar es Salaam,Rural,1,Never,Yes,No,No,No,Occasionally,10,Poor,Unknown,Low Risk
+48,Female,Single,Secondary,Self-employed,Arusha,Urban,2,Always,No,No,No,No,Never,4,Good,Positive,High Risk
+59,Female,Married,Secondary,Student,Tanga,Rural,2,Never,Yes,No,No,No,Occasionally,1,Moderate,Negative,High Risk
+20,Female,Married,Secondary,Unemployed,Dar es Salaam,Urban,1,Never,No,No,No,No,Occasionally,1,Poor,Unknown,High Risk
+51,Male,Married,Primary,Self-employed,Arusha,Urban,3,Never,Yes,No,No,No,Regularly,6,Poor,Negative,High Risk
